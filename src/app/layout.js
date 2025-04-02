@@ -23,13 +23,13 @@ import AnimationProvider from "@/components/providers/AnimationProvider";
 import BackTopTop from "@/components/BackToTop";
 
 export const metadata = {
-  title: "Photo Studio - Personal Portfolio/CV NextJS Template",
-  description: "Personal Portfolio/CV NextJS Template",
+  title: "Uche Emmanuel | Personal Portfolio",
+  description: "Personal Portfolio/CV ",
   keywords:
     "Personal Portfolio, CV, Resume, HTML5 Template, NextJS Template, Freelancer, Web Developer, Designer, Digital Portfolio, Nicholls, Sakebul islam",
-  creator: "Sakebul islam",
+  creator: "Uche Emmanuel",
   other: {
-    developer: "Sakebul islam",
+    developer: "Uche Emmanuel",
   },
 };
 
