@@ -17,7 +17,7 @@ const headerToppData = {
     { platform: "instagram", url: "#", icon: "fa-instagram" },
     { platform: "dribbble", url: "#", icon: "fa-dribbble" },
   ],
-  logo: "./assets/images/logo.svg",
+  logo: "./assets/images/uche_logo_black.svg",
   homeLink: "/",
 };
 
