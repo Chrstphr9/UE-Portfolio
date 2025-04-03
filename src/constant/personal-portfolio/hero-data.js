@@ -1,19 +1,19 @@
-export const skillsData = [
-  {
-    id: 0,
-    // name: "css",
-    // percentage: "85%",
-    // icon: "./assets/images/icons/css.png",
-    // isDefault: false,
-  },
-  {
-    id: 2,
-    // name: "Wordpress",
-    // percentage: "96%",
-    // icon: "./assets/images/icons/wordpress.png",
-    // isDefault: false,
-  },
-];
+// export const skillsData = [
+//   // {
+//   //   id: 0,
+//   //   // name: "css",
+//   //   // percentage: "85%",
+//   //   // icon: "./assets/images/icons/css.png",
+//   //   // isDefault: false,
+//   // },
+//   // {
+//   //   id: 2,
+//   //   // name: "Wordpress",
+//   //   // percentage: "96%",
+//   //   // icon: "./assets/images/icons/wordpress.png",
+//   //   // isDefault: false,
+//   // },
+// ];
 
 export const heroContent = {
   themeName: [

@@ -1,10 +1,10 @@
 "use client";
 import React, { useState } from "react";
 
-const HeroMain = ({ skillsData, heroContent }) => {
-  const defaultSkillId =
-    skillsData.find((skill) => skill.isDefault)?.id || skillsData[0].id;
-  const [currentSkill, setCurrentSkill] = useState(defaultSkillId);
+const HeroMain = ({  heroContent }) => {
+  // const defaultSkillId =
+  //   skillsData.find((skill) => skill.isDefault)?.id || skillsData[0].id;
+  // const [currentSkill, setCurrentSkill] = useState(defaultSkillId);
 
   return (
     <div className="hero__main">
@@ -12,7 +12,7 @@ const HeroMain = ({ skillsData, heroContent }) => {
         <div className="row">
           <div className="col-12">
             <div className="hero__main-content">
-              {skillsData.map((skill, index) => (
+              {/* {skillsData.map((skill, index) => (
                 <div
                   key={skill?.id}
                   className={`dot-content-wrapper dot-content-wrapper-${
@@ -27,7 +27,7 @@ const HeroMain = ({ skillsData, heroContent }) => {
                     <span>{skill?.percentage}</span>
                   </div>
                 </div>
-              ))}
+              ))} */}
 
               <div className="hero-thumb reveal zoom-out">
                 <img src={heroContent?.maskImage} alt="hero-mask-avatar" />
