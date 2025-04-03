@@ -1,3 +1,5 @@
+import Header from "@/components/common/Header";
+import LightMode from "@/components/LightMode";
 
 export const metadata = {
   title: "Service || Nicholls - Personal Portfolio/CV NextJS Template",
@@ -5,9 +7,9 @@ export const metadata = {
 
 const Home = () => {
   return (
-    <>
-    <h1> Service Page</h1>
-    </>
+    <LightMode>
+      <Header />
+    </LightMode>
   );
 };
 
