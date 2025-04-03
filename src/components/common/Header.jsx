@@ -1,13 +1,12 @@
 "use client";
 import React, { useState } from "react";
-import Link from "next/link";
-import { usePathname } from "next/navigation";
 import menus from "@/constant/menus";
 import Offcanvas from "@/components/Offcanvas";
 import useSticky from "@/Hook/useSticky";
-import HeaderTopbar from "@/components/personal-portfolio/HeaderTopbar";
+import { usePathname } from "next/navigation";
+import Link from "next/link";
 
-const Header = () => {
+const Header = ({ className }) => {
   const [show, setShow] = useState(false);
   const [active, setSctive] = useState(false);
   const pathname = usePathname();
@@ -15,52 +14,39 @@ const Header = () => {
 
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
-
   return (
     <>
       <header
-        className={`header-area position-relative z-2 ${
+        className={`header-area position-relative z-1 ${
           isSticky ? "sticky" : ""
         }`}
         id="header"
       >
-        <HeaderTopbar active={active} />
-        <div className="header__navbar">
-          <div className="container container--extend">
+        <div className={`header__navbar header__navbar--extend ${className}`}>
+          <div className="container-fluid">
             <div className="row">
               <div className="col-12">
                 <div className="header__main">
-                  <div className="row align-items-center">
-                    <div className="col-6 col-lg-2 col-xl-2 col-xxl-2">
-                      <div className="header__main-menuBar">
-                        <div
-                          className="menuBar-toggle"
-                          data-bs-toggle="offcanvas"
-                          data-bs-target="#offcanvasLeft"
-                          aria-controls="offcanvasLeft"
-                          onClick={handleShow}
-                        >
-                          <span></span>
-                          <span></span>
-                          <span></span>
-                        </div>
-                        Menu
-                        <i
-                          className="fa-solid fa-info info-toggle d-xl-none"
-                          onClick={() => setSctive(!active)}
-                        ></i>
+                  <div className="row justify-content-between align-items-center">
+                    <div className="col-6 col-md-2 col-lg-2 col-xl-1">
+                      <div className="d-flex justify-content-md-end">
+                        <Link className="header__topbar-logo" href="/">
+                          <img src="./assets/images/logo-v2.svg" alt="logo" />
+                        </Link>
                       </div>
                     </div>
-                    <div className="d-none d-lg-flex col-lg-8 col-xl-8 col-xxl-8">
-                      <nav className="header__main-menu">
+                    <div className="col-0 col-md-0 col-lg-8 col-xl-10 d-none d-lg-flex">
+                      <nav className={`header__main-menu header__main-menu--extend ${className}`}>
                         <ul>
                           {menus.map((menu) => (
                             <li
                               key={menu?.id}
+                              // className={pathname === menu.link ? "active" : ""}
                               className={
-                                (menu?.subMenu?.length > 0 &&
-                                  pathname === menu.link) ||
-                                menu.id === 0
+                                pathname === menu.link ||
+                                menu?.subMenu?.some(
+                                  (sub) => sub.link === pathname
+                                )
                                   ? "active"
                                   : ""
                               }
@@ -94,20 +80,20 @@ const Header = () => {
                         </ul>
                       </nav>
                     </div>
-                    <div className="col-6 col-lg-2 col-xl-2 col-xxl-2">
-                      <div className="header__main-menuBtns">
-                        <Link
-                          href="/contact"
-                          className="common-btn common-btn--squire"
+                    <div className="col-6 col-md-2 col-lg-2 col-xl-1">
+                      <div className="header__main-menuBar justify-content-end justify-content-md-start">
+                        <div
+                          className="menuBar-toggle"
+                          data-bs-toggle="offcanvas"
+                          data-bs-target="#offcanvasLeft"
+                          aria-controls="offcanvasLeft"
+                          onClick={handleShow}
                         >
-                          Let's Connect!
-                          <i className="fa-solid fa-arrow-right"></i>
-                        </Link>
-                      </div>
-                      <div className="text-end d-xl-none">
-                        <Link className="header__main-logo" href="/">
-                          <img src="./assets/images/uche_logo_white.svg" alt="logo" />
-                        </Link>
+                          <span></span>
+                          <span></span>
+                          <span></span>
+                        </div>
+                        Menu
                       </div>
                       <button className="header__hamburger d-none">
                         <i className="fa-solid fa-bars"></i>
