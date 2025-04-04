@@ -32,7 +32,7 @@
     &-left {
       border-right: 1px solid $color-isabelline;
 
-      .header__topbar-item {
+      .header__item {
         flex: 1;
       }
       @include breakpoint(max-xl) {
@@ -169,7 +169,7 @@
   &__main {
     &-logo {
       img {
-        max-width: 120px;
+        max-width: 170px;
       }
     }
     &-menuBar {
