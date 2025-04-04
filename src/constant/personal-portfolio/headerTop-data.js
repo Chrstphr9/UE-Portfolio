@@ -1,8 +1,8 @@
 const headerToppData = {
-  phone: {
-    label: "all",
-    number: "+4(897)56412322",
-  },
+  // phone: {
+  //   label: "all",
+  //   number: "+4(897)56412322",
+  // },
   email: {
     label: "Email",
     address: "name@gmail.com",
