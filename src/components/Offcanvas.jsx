@@ -101,7 +101,7 @@ const Offcanvas = ({ menus, handleClose, show, className = "", theme }) => {
               </Link>
             </div>
             <div className="social-share">
-              <h5>Contact Me</h5>
+              <h5 className="text-white">Contact Me</h5>
               <ul>
                 <OffcanvasSocial
                   link="#"
