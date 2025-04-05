@@ -24,7 +24,7 @@ export const heroContent = {
   ],
   maskImage: "./assets/images/uche_face.svg",
   description:
-    "As a passionate <span>digital designer,</span> we bring creativity and technical expertise to every project.",
+    "I’m Uchenna Emmanuel, a seasoned AI Engineer, Technology Leader, and Cloud Architect with over 20 years of experience.",
   ctaText: "See My Work Here!",
   ctaLink: "/portfolio",
 };

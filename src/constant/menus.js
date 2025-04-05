@@ -2,6 +2,7 @@ const menus = [
   {
     id: 0,
     name: "Home",
+    link: "/"
   },
   {
     id: 1,

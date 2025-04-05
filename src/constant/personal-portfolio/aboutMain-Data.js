@@ -4,7 +4,7 @@ const aboutMainData = {
   headerInfo: {
     icon: "./assets/images/about-area/header-img.png",
     greeting: "Hey there!",
-    title: "I'am James — a digital designer specializing in fintech startups",
+    title: "I'am Uche — an AI Engineer specializing in Cloud Computing",
   },
   decorativeImage: {
     src: "./assets/images/about-area/ring-shap.png",
@@ -12,12 +12,12 @@ const aboutMainData = {
   },
   content: {
     paragraphs: [
-      "Hey there! I'm James Nicholls, a freelance creative visual designer based in London. With over 15 years of experience, I specialize in crafting dynamic websites that leave a lasting impression. My skills span HTML, CSS, JavaScript, Joomla and more, allowing me to bring your digital vision to life with precision and creativity.",
-      "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut in consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non eius tempora incidunt ut labore et dolore magnam aliquam quaerat",
+      "I’m Uchenna Emmanuel, a seasoned AI Engineer, Technology Leader, and Cloud Architect with over 20 years of experience in software development, AI transformation, and enterprise technology solutions. As a CTO and Chief AI Officer, I specialize in leveraging cutting-edge Artificial Intelligence, Cloud Computing, and Software Engineering to drive business innovation",
+      "My expertise spans across AI Engineering & Consulting, Web & API Engineering, Mobile Engineering, and Cloud Architecture, with a strong focus on helping organizations scale their digital transformation efforts. I have led and delivered amazing technology products and complex AI-powered solutions, including Advanced AI RAG applications, AI Ethics, and enterprise-wide AI adoption strategies.",
     ],
     cta: {
       text: "More About ME",
-      href: "/about",
+      href: "/aboutme",
     },
   },
 };
