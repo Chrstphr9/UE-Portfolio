@@ -41,26 +41,27 @@ const ContactSection = () => {
                             href="mailto:admincontact@gmail.com"
                             className="email"
                           >
-                            admincontact@gmail.com
+                            hello@ucheokpagu.com
                           </Link>
                         </li>
                       </ul>
                     </div>
                     <p className="sub-title">address</p>
                     <div className="address">
-                      <p>223 Thatcher Road St, Brooklyn, Mahattan, NY 10463</p>
+                      <p>Lagos, Nigeria.
+                      </p>
                     </div>
 
                     <div className="social-links">
                       <ul>
                         <li>
-                          <Link href="#">facebook</Link>
+                          <Link href="#">Instagram</Link>
                         </li>
                         <li>
                           <Link href="#">twitter</Link>
                         </li>
                         <li>
-                          <Link href="#">instagram</Link>
+                          <Link href="#">Tiktok</Link>
                         </li>
                         <li>
                           <Link href="#">linkedin</Link>

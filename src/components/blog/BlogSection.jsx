@@ -23,12 +23,12 @@ const BlogSection = () => {
           <div className="col-12">
             <div className="blog-filter__links">
               <ul>
+
                 {categories.map((category, index) => (
                   <React.Fragment key={category}>
                     <li
-                      className={`filter ${
-                        activeFilter === category ? "active" : ""
-                      }`}
+                      className={`filter ${activeFilter === category ? "active" : ""
+                        }`}
                       onClick={() => setActiveFilter(category)}
                     >
                       {category}
