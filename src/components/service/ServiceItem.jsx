@@ -9,9 +9,9 @@ const ServiceItem = ({ title, description, link }) => {
         <a href={link}>{title}</a>
       </h3>
       <p>{description}</p>
-      <Link href={link} className="common-btn__circle">
+      {/* <Link href={link} className="common-btn__circle">
         <PiArrowUpRightBold size={20} />
-      </Link>
+      </Link> */}
     </div>
   );
 };
