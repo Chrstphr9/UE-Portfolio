@@ -1,33 +1,33 @@
 const servicesData = [
   {
     id: 1,
-    title: "GRAPHIC DESIGN",
+    title: "AI CONSULTING",
     description:
-      "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, consequuntur eos qui ratione voluptatem sequi nesciunt. dolorem ipsum quia dolor sit amet,",
+      "– Helping businesses integrate AI for automation, and enhanced customer experiences.",
     link: "/service-details",
     position: "up",
   },
   {
     id: 2,
-    title: "UI/UX DESIGN",
+    title: "TECHNOLOGY LEADERSHIP",
     description:
-      "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, consequuntur eos qui ratione voluptatem sequi nesciunt. dolorem ipsum quia dolor sit amet,",
+      "Driving digital transformation, mentoring teams, and setting technology roadmaps.",
     link: "/service-details",
     position: "up",
   },
   {
     id: 3,
-    title: "WEBSITE DESIGN",
+    title: "WEB API & CLOUD ENGINEERING",
     description:
-      "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, consequuntur eos qui ratione voluptatem sequi nesciunt. dolorem ipsum quia dolor sit amet,",
+      "Architecting secure, scalable, and high-performance APIs and cloud infrastructures.",
     link: "/service-details",
     position: "up",
   },
   {
     id: 4,
-    title: "MOTION DESIGN",
+    title: "FRONTEND ENGINEERING",
     description:
-      "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, consequuntur eos qui ratione voluptatem sequi nesciunt. dolorem ipsum quia dolor sit amet,",
+      " Building intuitive and efficient web and mobile applications with seamless API integrations.",
     link: "/service-details",
     position: "down",
   },

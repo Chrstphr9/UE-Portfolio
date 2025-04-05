@@ -4,7 +4,7 @@ import { PiArrowUpRightBold } from "react-icons/pi";
 const ServiceItem = ({ title, description, link }) => {
   return (
     <div className="service__item">
-      <span className="item__number"></span>
+      {/* <span className="item__number"></span> */}
       <h3 className="item__title split-text right text-initial">
         <a href={link}>{title}</a>
       </h3>

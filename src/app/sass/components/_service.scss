@@ -63,6 +63,7 @@
       }
       &__title {
         @extend %text-uppercase;
+        margin-bottom: 32px;
 
         @include breakpoint(max-xxl) {
           font-size: calc($fs-h3 - 12px);

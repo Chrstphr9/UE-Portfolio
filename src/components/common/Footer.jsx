@@ -30,17 +30,17 @@ const Footer = ({ bottomOnly }) => {
           </div>
         </div>
       )}
-      <div className="footer__bottom bg-eerie-black before-shape">
+      <div className="footer__bottom bg-black before-shape">
         <div className="container container--extend">
           <div className="row gx-4 gy-2">
             <div className="col-lg-4 order-3 order-lg-1">
-              <p className="footer__copyright">
+              <p className="footer__copyright text-white">
                 © 2025. All rights reserved Nicholls
               </p>
             </div>
             <div className="col-lg-4 order-1 order-lg-2">
-              <div className="footer__back-to-top">
-                <Link href="#header" className="section-link">
+              <div className="footer__back-to-top text-white">
+                <Link href="#header" className="section-link text-white">
                   <i className="fas fa-angle-up"></i>
                   Back To Top
                 </Link>
@@ -48,12 +48,12 @@ const Footer = ({ bottomOnly }) => {
             </div>
             <div className="col-lg-4 order-2 order-lg-3">
               <div className="footer__nav">
-                <ul>
-                  <li>
-                    <Link href="#"> Terms & Condition </Link>
+                <ul >
+                  <li >
+                    <Link href="#" className="text-white"> Terms & Condition </Link>
                   </li>
                   <li>
-                    <Link href="#"> Privacy Policy </Link>
+                    <Link href="#" className="text-white"> Privacy Policy </Link>
                   </li>
                 </ul>
               </div>

@@ -77,7 +77,7 @@ const ContactSection = () => {
                 </div>
                 <div className="col-12 col-lg-7">
                   <div className="contact__form-wrapper">
-                    <form action="/" className="contact__form">
+                    <form action="https://formspree.io/f/xwplrvbp" className="contact__form">
                       <div className="row g-4">
                         <div className="col-md-6">
                           <div className="input-group">
