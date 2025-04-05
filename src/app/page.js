@@ -23,7 +23,7 @@ export default function Home() {
         <HeroSetion />
         <AboutMain />
         <ServiceSection />
-        <PortfolioSection />
+        {/* <PortfolioSection /> */}
         <BrandsSection />
         <ImageSection />
         <AboutSection />

@@ -25,7 +25,7 @@ const Header = () => {
         id="header"
       >
         <HeaderTopbar active={active} />
-        <div className="header__navbar">
+        <div className="header__navbar bg-black">
           <div className="container container--extend">
             <div className="row">
               <div className="col-12">

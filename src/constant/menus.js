@@ -6,7 +6,7 @@ const menus = [
   {
     id: 1,
     name: "About Me",
-    link: "/about"
+    link: "/aboutme"
   },
   {
     id: 2,

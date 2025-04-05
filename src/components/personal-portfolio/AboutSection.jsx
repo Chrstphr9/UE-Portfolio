@@ -8,7 +8,7 @@ const AboutSection = () => {
   return (
     <section className="about-area section-padding-top-bottom">
       <div className="container">
-        <div className="row section-mini-padding-bottom">
+        {/* <div className="row section-mini-padding-bottom">
           <div className="col-xl-8">
             <div className="section__header">
               <h2 className="section__title split-text right text-initial">
@@ -16,8 +16,8 @@ const AboutSection = () => {
               </h2>
             </div>
           </div>
-        </div>
-        <div className="row justify-content-end">
+        </div> */}
+        {/* <div className="row justify-content-end">
           <div className="col-xl-6">
             <div className="about__content">
               <p className="item-popup">
@@ -29,7 +29,7 @@ const AboutSection = () => {
               </Link>
             </div>
           </div>
-        </div>
+        </div> */}
         <div className="row g-4 section-mini-padding-top">
           {aboutData?.counters?.map((counter) => (
             <div key={counter?.id} className="col-sm-6 col-md-4">

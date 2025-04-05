@@ -13,7 +13,7 @@ const Footer = () => {
   };
 
   return (
-    <footer className="footer-area section-padding-top bg-eerie-black before-shape">
+    <footer className="footer-area section-padding-top bg-black before-shape">
       <div className="footer__top">
         <div className="overflow-hidden">
           <Marquee pauseOnHover speed={200}>

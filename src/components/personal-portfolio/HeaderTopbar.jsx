@@ -4,23 +4,23 @@ import Link from 'next/link';
 const HeaderTopbar = ({active}) => {
   return (
     <div className={`header__topbar ${active ? 'active': ''}`}>
-      <div className="container container--extend">
+      <div className="container container--extend bg-black">
         <div className="row">
           <div className="col-12">
             <div className="header__topbar-wrapper">
               <div className="row">
-                <div className="col-xl-3 p-0">
+                {/* <div className="col-xl-3 p-0">
                   <div className="header__topbar-left">
                     <div className="phone header__topbar-item">
-                      {/* {headerToppData?.phone?.label}:
+                      {headerToppData?.phone?.label}:
                       <Link href={`tel:${headerToppData?.phone?.number}`}>{headerToppData?.phone?.number}</Link>
                     </div>
                     <div className="email header__topbar-item">
                       {headerToppData?.email.label}:
-                      <Link href={`mailto:${headerToppData?.email?.address}`}>{headerToppData?.email?.address}</Link> */}
+                      <Link href={`mailto:${headerToppData?.email?.address}`}>{headerToppData?.email?.address}</Link>
                     </div>
                   </div>
-                </div>
+                </div> */}
                 <div className="col-xl-12 p-0">
                   <div className="header__topbar-center header__topbar-item d-none d-xl-flex">
                     <Link className="header__topbar-logo" href={headerToppData?.homeLink}>
