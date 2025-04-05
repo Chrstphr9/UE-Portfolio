@@ -1,11 +1,16 @@
 import LightMode from "@/components/LightMode";
 import Header from "@/components/common/Header";
-import BlogHero from "@/components/blog/BlogHero";
-import BlogSection from "@/components/blog/BlogSection";
+import AboutHero from "@/components/about/AboutHero";
+import Achievement from "@/components/about/Achievement";
+import Experience from "@/components/about/Experience";
+import Award from "@/components/about/Award";
+import SkillsSection from "@/components/about/SkillsSection";
+import Testimonial from "@/components/about/Testimonial";
+import BrandsSection from "@/components/about/BrandsSection";
 import Footer from "@/components/common/Footer";
 
 export const metadata = {
-  title: "Blog || Nicholls - Personal Portfolio/CV NextJS Template",
+  title: "About Me || Nicholls - Personal Portfolio/CV NextJS Template",
 };
 
 const Home = () => {
@@ -13,8 +18,13 @@ const Home = () => {
     <LightMode>
       <Header />
       <main>
-        <BlogHero/>
-        <BlogSection/>
+        <AboutHero />
+        <Achievement />
+        <Experience />
+        <Award />
+        <SkillsSection />
+        <Testimonial />
+        <BrandsSection />
       </main>
       <Footer />
     </LightMode>
