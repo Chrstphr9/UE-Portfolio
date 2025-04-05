@@ -15,11 +15,11 @@ const Offcanvas = ({ menus, handleClose, show, className = "", theme }) => {
         className={`${theme === "dark" ? "bg-eerie-black text-white" : ""}`}
       >
         <ReactOffcanvas.Header>
-          <ReactOffcanvas.Title as="h4">Nicholls</ReactOffcanvas.Title>
+          <ReactOffcanvas.Title as="h4" className="text-white">Uche</ReactOffcanvas.Title>
           <button
             onClick={handleClose}
             type="button"
-            className="btn-close"
+            className="btn-close bg-white"
             data-bs-dismiss="offcanvas"
             aria-label="Close"
           >
@@ -83,7 +83,7 @@ const Offcanvas = ({ menus, handleClose, show, className = "", theme }) => {
           </div>
           <div className="offcanvas-info">
             <div className="about-info">
-              <p>
+              <p className="text-white">
                 Nicholls is a sleek portfolio template that helps professionals
                 showcase their work and CV with style. Perfect for anyone
                 looking to make a strong online presence.
