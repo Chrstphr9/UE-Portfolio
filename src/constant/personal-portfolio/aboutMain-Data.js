@@ -1,8 +1,5 @@
 const aboutMainData = {
-  shapImage: "./assets/images/about-area/about-shap-image.png",
-  maskImage: "./assets/images/about-area/about-shap-masking.png",
   headerInfo: {
-    icon: "./assets/images/about-area/header-img.png",
     greeting: "Hey there!",
     title: "I'am Uche — an AI Engineer specializing in Cloud Computing",
   },

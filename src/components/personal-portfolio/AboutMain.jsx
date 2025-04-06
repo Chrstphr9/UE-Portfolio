@@ -6,20 +6,20 @@ const AboutMain = () => {
   return (
     <section className='about-area section-padding-top-bottom bg-ecedde after-shape'>
       <div className="container">
-        <div
+        {/* <div
           className="about-area__shap img-movement"
-          style={{
-            backgroundImage: `url(${aboutData?.shapImage})`,
-            maskImage: `url(${aboutData?.maskImage})`,
-          }}
-        ></div>
+          // style={{
+          //   backgroundImage: `url(${aboutData?.shapImage})`,
+          //   maskImage: `url(${aboutData?.maskImage})`,
+          // }}
+        ></div> */}
         <div className="row">
           <div className="col-xl-9">
             <div className="section__header">
               <div className="d-flex align-items-center">
-                <span className="image-shap">
+                {/* <span className="image-shap">
                   <img src={aboutData?.headerInfo?.icon} alt="figure" />
-                </span>
+                </span> */}
                 <h2 className="section__title">
                   {aboutData?.headerInfo?.greeting}
                 </h2>
@@ -31,14 +31,14 @@ const AboutMain = () => {
           </div>
         </div>
         <div className="row g-4 justify-content-end section-mini-padding-top">
-          <div className="col-xl-6 d-none d-xl-block">
+          {/* <div className="col-xl-6 d-none d-xl-block">
             <div className="about__shap p-4 overflow-hidden">
               <img
                 src={aboutData?.decorativeImage?.src}
                 alt={aboutData?.decorativeImage?.alt}
               />
             </div>
-          </div>
+          </div> */}
           <div className="col-xl-6">
             <div className="about__content">
               {aboutData?.content?.paragraphs.map((paragraph, index) => (

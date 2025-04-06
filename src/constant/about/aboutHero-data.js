@@ -1,6 +1,6 @@
 const heroData = {
-  imgSrc: "./assets/images/hero-area/hero-about-avatar.png",
+  imgSrc: "./assets/images/uche_face.svg",
   altText: "hero-about-avatar",
-  titleText: ["product designer", "product designer"],
+  // titleText: ["product designer", "product designer"],
 };
 export default heroData;

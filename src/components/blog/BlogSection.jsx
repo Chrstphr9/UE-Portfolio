@@ -74,7 +74,7 @@ const BlogSection = () => {
                   </Link>
                 </div>
                 <figure className="blog-thumb">
-                  <Link href="/blog-details">
+                  <Link href="">
                     <img src={post?.image} alt={post.title} />
                   </Link>
                 </figure>

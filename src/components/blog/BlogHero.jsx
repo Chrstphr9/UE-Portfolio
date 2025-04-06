@@ -12,9 +12,7 @@ const BlogHero = () => {
                 className="hero-title split-text left text-initial"
                 data-delay="0.1"
               >
-                Our latest
-                <br />
-                blogs from nicholls
+                Blogs
               </h1>
               <p className="extend">
                 Top tips for choosing the perfect design agency for your
@@ -25,7 +23,7 @@ const BlogHero = () => {
                 href="/contact"
                 className="common-btn common-btn--color-reverse"
               >
-                Book a Free Call!
+                Let's Connect
               </Link>
             </div>
           </div>

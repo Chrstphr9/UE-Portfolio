@@ -1,20 +1,22 @@
 const blogPosts = [
   {
     id: 1,
-    title: "Maximizing customer support efficiency with AI assistants: A guide for businesses",
-    date: "Febuary 24, 2025",
+    title: "3 cost saving tips for businesses implementing generative AI",
+    date: "January 21, 2025",
     author: "Uche Okpagu",
-    image: "/assets/images/blog-area/blog-thumb-1.png",
+    image: "/assets/images/blog-area/blog4.jpeg",
     categories: ["branding", "web-design"],
+    link: "https://nairametrics.com/2025/01/21/3-cost-saving-tips-for-businesses-implementing-generative-ai/",
     effect: "reveal zoom-out",
   },
   {
     id: 2,
-    title: "Designing for Impact: Unveiling the Secrets of Effective UI/UX",
-    date: "October 06, 2024",
+    title: "Risks African businesses should be wary of while embarking on their AI transformation",
+    date: "January 06, 2024",
     author: "Uche Okpagu",
-    image: "/assets/images/blog-area/blog-thumb-2.png",
+    image: "/assets/images/blog-area/blog5.png",
     categories: ["video", "web-design", "branding"],
+    link: "https://nairametrics.com/2025/01/06/risks-african-businesses-should-be-wary-of-while-embarking-on-their-ai-transformation/",
     effect: "reveal right",
   },
   {
