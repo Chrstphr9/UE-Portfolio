@@ -1,7 +1,7 @@
 import LightMode from "@/components/LightMode";
 import Header from "@/components/common/Header";
 import AboutHero from "@/components/about/AboutHero";
-import Achievement from "@/components/about/Achievement";
+import AboutMain from "@/components/personal-portfolio/AboutMain";
 import Experience from "@/components/about/Experience";
 import Award from "@/components/about/Award";
 import SkillsSection from "@/components/about/SkillsSection";
@@ -19,12 +19,12 @@ const Home = () => {
       <Header />
       <main>
         <AboutHero />
-        <Achievement />
+        <AboutMain />
         <Experience />
-        <Award />
+        {/* <Award />
         <SkillsSection />
         <Testimonial />
-        <BrandsSection />
+        <BrandsSection /> */}
       </main>
       <Footer />
     </LightMode>

@@ -21,7 +21,7 @@ export default function Home() {
       <main className="position-relative">
         <LinesContainer />
         <HeroSetion />
-        <AboutMain />
+        {/* <AboutMain /> */}
         <ServiceSection />
         {/* <PortfolioSection /> */}
         <BrandsSection />
