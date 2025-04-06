@@ -14,7 +14,7 @@ const Home = () => {
       <Header />
       <main>
       <ServiceHero />
-      <Testimonial />
+      {/* <Testimonial /> */}
       </main>
       <Footer />
     </LightMode>

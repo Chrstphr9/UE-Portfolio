@@ -14,17 +14,17 @@ const Footer = ({ bottomOnly }) => {
         <div className="footer__info section-padding-top-bottom">
           <div className="container container--extend">
             <div className="col-12">
-              <span className="short-info">Interested in working with us?</span>
-              <h2 className="info-title section-mini-margin-top-bottom">
+              <span className="short-info text-white">Interested in working with us?</span>
+              <h2 className="info-title section-mini-margin-top-bottom text-white">
                 <span>LET’S Chat</span>
               </h2>
               <Link
                 href="/contact"
-                className="common-btn__circle-move btn-hover btn-item"
+                className="common-btn__circle-move btn-hover btn-item text-white"
               >
                 Let`s Connect
                 <i className="fa-solid fa-arrow-right"></i>
-                <span></span>
+                <span className="color-white"></span>
               </Link>
             </div>
           </div>

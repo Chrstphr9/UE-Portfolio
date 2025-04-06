@@ -14,7 +14,7 @@ const Home = () => {
       <Header/>
       <main>
         <ContactSection/>
-        <FaqSection/>
+        {/* <FaqSection/> */}
       </main>
       <Footer/>
     </LightMode>
