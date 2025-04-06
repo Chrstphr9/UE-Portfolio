@@ -7,45 +7,35 @@ const footerData = {
 
   centerSection: {
     avatar: {
-      src: "./assets/images/footer-area/footer-mask-avatar.png",
+      src: "./assets/images/uche_face.svg",
       alt: "footer-mask-avatar",
     },
     socialLinks: [
       {
         name: "LINKEDIN",
-        url: "#",
+        url: "https://www.linkedin.com/in/uokpagu/",
         id: "linkedin",
       },
       {
         name: "instagram",
-        url: "#",
+        url: "https://instagram.com/uchokpagu",
         id: "instagram",
       },
       {
-        name: "facebook",
-        url: "#",
-        id: "facebook",
-      },
-      {
         name: "twitter",
-        url: "#",
+        url: "https://x.com/ucheokpagu",
         id: "twitter",
-      },
-      {
-        name: "Dribbble",
-        url: "#",
-        id: "dribbble",
       },
     ],
     hireButton: {
-      text: "hire me",
+      text: "Let's Connect",
       link: "/contact",
     },
   },
 
   bottomSection: {
     copyright: {
-      text: "© 2025. All rights reserved Nicholls",
+      text: "© 2025. All rights reserved Uche Okpagu.",
       year: new Date().getFullYear(),
     },
     backToTop: {

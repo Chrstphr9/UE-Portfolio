@@ -22,7 +22,7 @@ const Footer = () => {
               .map((_, index) => (
                 <h2
                   key={index}
-                  className="section__big-title color-white marquee-text overflow-hidden"
+                  className="section__big-title marquee-text overflow-hidden"
                 >
                   <Link href={footerData?.marquee?.link}>
                     {footerData?.marquee?.text}&nbsp;-&nbsp;

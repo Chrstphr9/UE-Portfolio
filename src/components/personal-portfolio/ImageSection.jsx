@@ -2,8 +2,8 @@ import React from "react";
 
 const imageData = {
   title:
-    "I create visual elements that enhance your brand's presence and engagement",
-  backgroundImage: "./assets/images/image-area/image.png",
+    "",
+  backgroundImage: "./assets/images/ucheinnovate_tmxhe4.svg",
 };
 
 const ImageSection = () => {
