@@ -14,11 +14,6 @@ const BlogHero = () => {
               >
                 Blogs
               </h1>
-              <p className="extend">
-                Top tips for choosing the perfect design agency for your
-                business. Discover the key factors to consider when selecting a
-                design agency that aligns with your brand's.
-              </p>
               <Link
                 href="/contact"
                 className="common-btn common-btn--color-reverse"

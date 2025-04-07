@@ -66,7 +66,7 @@ const BlogSection = () => {
                     <Link href="/blog-details">{post?.title}</Link>
                   </h4>
                   <Link
-                    href="/blog-details"
+                     href={post?.url || "/blog-details"}
                     className="common-btn common-btn--color-reverse"
                   >
                     Read More

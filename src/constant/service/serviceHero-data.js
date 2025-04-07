@@ -1,9 +1,9 @@
 export const heroData = {
-  title: ["Design", "Build your brand", "Enhance experiences"],
+  title: ["My goal is to empower", "businesses with the right AI."],
   description:
-    "I offer a range of creative solutions to help you achieve your digital goals. Here's how I can assist you:",
+    "I am passionate about AI innovation, cloud-native solutions, and mentoring technology teams to build robust and scalable software systems Here's how I can assist you:",
   ctaButton: {
-    text: "Book a Free Call!",
+    text: "Let's Connect",
     link: "/contact",
   },
 };
