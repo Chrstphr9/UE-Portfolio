@@ -3,7 +3,7 @@ import ReactOffcanvas from "react-bootstrap/Offcanvas";
 import MobileMenu from "@/components/mobile-menus/MobileMenu";
 import Accordion from "react-bootstrap/Accordion";
 import { IoIosArrowDown } from "react-icons/io";
-import OffcanvasSocial from "./OffcanvasSocial";
+import OffcanvasSocial from "../constant/OffcanvasSocial";
 
 const Offcanvas = ({ menus, handleClose, show, className = "", theme }) => {
   return (

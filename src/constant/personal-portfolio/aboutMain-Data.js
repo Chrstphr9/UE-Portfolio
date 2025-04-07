@@ -1,7 +1,7 @@
 const aboutMainData = {
   headerInfo: {
-    greeting: "Hey there!",
-    title: "I'am Uche — an AI Engineer specializing in Cloud Computing",
+    greeting: "About Me",
+    // title: "I'am Uche — an AI Engineer specializing in Cloud Computing",
   },
   decorativeImage: {
     src: "./assets/images/about-area/ring-shap.png",
@@ -13,8 +13,8 @@ const aboutMainData = {
       "My expertise spans across AI Engineering & Consulting, Web & API Engineering, Mobile Engineering, and Cloud Architecture, with a strong focus on helping organizations scale their digital transformation efforts. I have led and delivered amazing technology products and complex AI-powered solutions, including Advanced AI RAG applications, AI Ethics, and enterprise-wide AI adoption strategies.",
     ],
     cta: {
-      text: "Let's Connect",
-      href: "/contact",
+      text: "About Me",
+      href: "/aboutme",
     },
   },
 };

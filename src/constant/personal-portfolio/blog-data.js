@@ -15,7 +15,7 @@ const blogData = {
           author: "Uche Okpagu",
           date: "December 14, 2024",
           title: "Ethical and responsible AI deployment: A focus on Africa ",
-          image: "./assets/images/blog-area/blog-thumb-2.jpeg",
+          image: "./assets/images/blog-area/blog-thumb-1.png",
           link: "https://techcabal.com/2025/03/15/africa-identity-verification/",
           animation: "right"
       },
@@ -23,8 +23,8 @@ const blogData = {
           id: 3,
           author: "Uche Okpagu",
           date: "December 13, 2024",
-          title: "The Role of User Experience in Portfolio Design",
-          image: "./assets/images/blog-area/blog-thumb-3.webp",
+          title: "Can Universal Basic Income (UBI) Be A Sustainable Response to The Rise of AI Agents?",
+          image: "./assets/images/blog-area/blog-thumb-1.png",
           link: "https://www.usaii.org/ai-insights/can-universal-basic-income-ubi-be-a-sustainable-response-to-the-rise-of-ai-agents",
           animation: "left"
       }

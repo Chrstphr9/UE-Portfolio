@@ -1,5 +1,5 @@
 const experienceData = {
-  sectionTitle: "I Develop Skills Regularly to Keep Me",
+  sectionTitle: "",
   accordionItems: [
     {
       id: "0",
@@ -18,7 +18,7 @@ const experienceData = {
         {
           year: "Nov 2021 Aug 2023",
           title: "Chief Solutions Architect",
-          company: "Google out Tech",
+          company: "Remita",
         },
         {
           year: "Oct 2015 - Nov 2022",
@@ -28,7 +28,7 @@ const experienceData = {
         {
           year: "Oct 2013 - Oct 2015",
           title: "Head of Software Development",
-          company: "Charm Plc",
+          company: "Cham Plc",
         },
         {
           year: "Oct 2015 - Nov 2022",
@@ -53,24 +53,24 @@ const experienceData = {
       content: [
         {
           year: "2000 - 2005",
-          title: "University of Nsukka",
+          title: "University of NIgeria, Nsukka",
           company: "Enugu State, Nigeria",
         },
       ],
     },
     {
       id: "2",
-      header: "Professional Skills",
+      header: "Honors & Awards",
       content: [
         {
-          year: "current",
-          title: "Web Services Api",
-          company: "FigoEvents",
+          year: "Dec 2013",
+          title: "2nd Prize Winner Microsoft 9ja Apps Developer Competition",
+          company: "Associated with Sterling Bank Plc",
         },
         {
-          year: "current",
-          title: "Mobile Application Development",
-          company: "FigoEvents",
+          year: "Dec 2013",
+          title: "3rd Prize Winner Microsoft 9ja Apps Developer Competition",
+          company: "Associated with Sterling Bank Plc",
         },
       ],
     },
@@ -88,21 +88,23 @@ const experienceData = {
         {
           year: "2015",
           title: "Associated with ConfirmMe.com",
-          company: "Charms Plc",
+          company: "Chams Plc",
           description:
             "ConfirmMe is a robust verification platform that allows individuals and corporations to verify the identity, credential of a person or company. It is B2B and B2C platform that can be accessed via multiple channels including a Mobile App available on Android, iOS, WIndows and Blackberry.",
         },
         {
+          year: "2025",
           title: "FigoEvents",
-          company: "Pesonal Project",
+          company: "Figo",
           description:
             "An AI-powered platform designed to transform your event experience effortlessly. Manage guest lists, sell tickets, and ensure seamless access control with ease via QR code and NFC.",
         },
         {
+          year: "2025",
           title: "Remita AI",
           company: "Associated with Remita",
           description:
-            "An AI-powered platform designed to transform your event experience effortlessly. Manage guest lists, sell tickets, and ensure seamless access control with ease via QR code and NFC.",
+            "Remita-AI is a cutting-edge generative AI-powered solution designed to revolutionize the payment experience for Remita customers, integrators, and partners.",
         },
       ],
     },
@@ -112,7 +114,7 @@ const experienceData = {
       content: [
         {
           year: "2024",
-          title: "Certified Arftificial Intelligence Scientist (CIAS)",
+          title: "Certified Artificial Intelligence Scientist (CAIS)",
           company: "United State Artificial Intelligence Institute",
         },
         {
@@ -124,18 +126,18 @@ const experienceData = {
         },
         {
           year: "2015",
-          title: "SAP Enterprise Mobolity Development",
+          title: "SAP Enterprise Mobility Development",
           company: "SAP",
         },
         {
           year: "2012",
           title: "Oracle Certified Associate",
-          company: "SAP",
+          company: "Oracle",
         },
         {
           year: "2012",
           title: "ITIL v3",
-          company: "ENIX",
+          company: "EINX",
         },
       ],
     },
