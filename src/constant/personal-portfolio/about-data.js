@@ -11,13 +11,13 @@ const aboutData = {
       {
         id: 1,
         title: "Years of Experience",
-        count: 15,
+        count: 25,
         prefix: "+",
       },
       {
         id: 2,
         title: "Total Projects Done",
-        count: 1000,
+        count: 500,
         prefix: "+",
       },
       {
