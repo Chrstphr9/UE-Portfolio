@@ -56,21 +56,6 @@ const experienceData = {
           title: "University of Nsukka",
           company: "Enugu State, Nigeria",
         },
-        {
-          year: "2016 - 2018",
-          title: "Front-end Developer",
-          company: "at Envato Market",
-        },
-        {
-          year: "2018 - 2020",
-          title: "Developer & Co-Founder",
-          company: "Google out Tech",
-        },
-        {
-          year: "2014 - 2016",
-          title: "Leader Team of Marketing",
-          company: "Soft Tech Inc",
-        },
       ],
     },
     {

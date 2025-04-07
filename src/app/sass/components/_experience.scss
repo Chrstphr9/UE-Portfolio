@@ -119,7 +119,7 @@
       @extend %text-medium, %text-capitalize, %text-center;
       padding: 10px 20px;
       white-space: nowrap;
-      max-width: 150px;
+      max-width: 180px;
       width: 100%;
 
       @include breakpoint(max-xl) {
