@@ -21,13 +21,13 @@ const HeaderTopbar = ({active}) => {
                     </div>
                   </div>
                 </div> */}
-                <div className="col-xl-12 p-0">
+                {/* <div className="col-xl-12 p-0">
                   <div className="header__topbar-center header__topbar-item d-none d-xl-flex">
                     <Link className="header__topbar-logo" href={headerToppData?.homeLink}>
                       <img src={headerToppData?.logo} alt="logo" />
                     </Link>
                   </div>
-                </div>
+                </div> */}
                 {/* <div className="col-xl-3 p-0">
                   <div className="header__topbar-right">
                     <div className="address header__topbar-item">
