@@ -48,12 +48,20 @@ const Footer = ({ bottomOnly }) => {
             </div>
             <div className="col-lg-4 order-2 order-lg-3">
               <div className="footer__nav">
-                <ul >
-                  <li >
-                    <Link href="#" className="text-white"> Terms & Condition </Link>
+                <ul>
+                  <li>
+                    <Link href="./assets/docs/Termify-Privacy-Policy" passHref legacyBehavior>
+                      <a className="text-white" target="_blank" rel="noopener noreferrer">
+                        Terms & Condition
+                      </a>
+                    </Link>
                   </li>
                   <li>
-                    <Link href="#" className="text-white"> Privacy Policy </Link>
+                    <Link href="./assets/docs/Termify-Terms-and-Conditions.pdf" passHref legacyBehavior>
+                      <a className="text-white" target="_blank" rel="noopener noreferrer">
+                        Privacy Policy
+                      </a>
+                    </Link>
                   </li>
                 </ul>
               </div>
