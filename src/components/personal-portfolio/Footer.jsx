@@ -51,7 +51,7 @@ const Footer = () => {
             <div className="col-md-6 col-xl-6">
               <div className="footer__center-content">
                 <ul>{renderSocialLinks()}</ul>
-                <Link
+                <Link 
                   href={footerData?.centerSection?.hireButton?.link}
                   className="hore-me"
                 >
@@ -66,29 +66,29 @@ const Footer = () => {
         <div className="container container--extend">
           <div className="row gx-4 gy-2">
             <div className="col-lg-4 order-3 order-lg-1">
-              <p className="footer__copyright">
+              <p className="footer__copyright text-white">
                 {footerData?.bottomSection?.copyright?.text}
               </p>
             </div>
             <div className="col-lg-4 order-1 order-lg-2">
               <div className="footer__back-to-top">
-                <Link href="#header" className="section-link">
+                <Link href="#header" className="section-link" style={{ color: 'white' }}>
                   <i className="fas fa-angle-up"></i>
                   {footerData?.bottomSection?.backToTop?.text}
                 </Link>
               </div>
             </div>
             <div className="col-lg-4 order-2 order-lg-3">
-              <div className="footer__nav">
-                <ul>
-                  {footerData?.bottomSection?.footerNav?.map((item) => (
-                    <li key={item?.id}>
-                      <Link href={item?.url}>{item?.text}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            </div>
+  <div className="footer__nav">
+    <ul>
+      {footerData?.bottomSection?.footerNav?.map((item) => (
+        <li key={item?.id}>
+          <Link href={item?.url} style={{ color: 'white' }}>{item?.text}</Link>
+        </li>
+      ))}
+    </ul>
+  </div>
+</div>
           </div>
         </div>
       </div>
