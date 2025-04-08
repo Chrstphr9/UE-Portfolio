@@ -32,7 +32,7 @@ const experienceData = {
         },
         {
           year: "Oct 2015 - Nov 2022",
-          title: "Team Lead, Mobile Apllications Development",
+          title: "Team Lead, Mobile Applications Development",
           company: "Sterling Bank Plc",
         },
         {
