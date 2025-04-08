@@ -13,7 +13,7 @@ const aboutMainData = {
       "My expertise spans across AI Engineering & Consulting, Web & API Engineering, Mobile Engineering, and Cloud Architecture, with a strong focus on helping organizations scale their digital transformation efforts. I have led and delivered amazing technology products and complex AI-powered solutions, including Advanced AI RAG applications, AI Ethics, and enterprise-wide AI adoption strategies.",
     ],
     cta: {
-      text: "About Me",
+      text: "More About Me",
       href: "/aboutme",
     },
   },
