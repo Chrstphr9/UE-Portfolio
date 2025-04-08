@@ -39,7 +39,7 @@ const AboutMain = () => {
               />
             </div>
           </div> */}
-          <div className="col-xl-6">
+          <div className="col-xl-12">
             <div className="about__content">
               {aboutData?.content?.paragraphs.map((paragraph, index) => (
                 <p key={index} className="item-popup">

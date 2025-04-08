@@ -19,6 +19,19 @@ const BlogSection = () => {
           {blogData?.blogs?.map((blog) => (
             <BlogItem key={blog?.id} blog={blog} />
           ))}
+           <a
+                href='/blog'
+                className="common-btn common-btn--color-reverse section-mini-margin-top"
+                style={{ 
+                  width: 'fit-content', 
+                  padding: '0.5rem 1rem', 
+                  textAlign: 'center', 
+                  display: 'inline-block',
+                  fontSize: '1.5rem'
+                }}
+              >
+                More Blogs
+              </a>
         </div>
       </div>
     </section>

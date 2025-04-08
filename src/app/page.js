@@ -24,7 +24,7 @@ export default function Home() {
         <AboutMain />
         <ServiceSection />
         {/* <PortfolioSection /> */}
-        <BrandsSection />
+        {/* <BrandsSection /> */}
         <ImageSection />
         <AboutSection />
         {/* <Testimonial /> */}

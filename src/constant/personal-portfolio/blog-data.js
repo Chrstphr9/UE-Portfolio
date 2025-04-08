@@ -1,5 +1,5 @@
 const blogData = {
-  sectionTitle: "Update with us and know our latest insights, blog and news",
+  sectionTitle: "My Latest Articles",
   blogs: [
       {
           id: 1,

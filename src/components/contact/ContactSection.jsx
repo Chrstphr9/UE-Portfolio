@@ -86,23 +86,15 @@ const ContactSection = () => {
                     <div className="social-links">
                       <ul>
                         <li>
-                          <Link href="#">Instagram</Link>
+                          <Link href="https://instagram.com/uchokpagu">Instagram</Link>
                         </li>
                         <li>
-                          <Link href="#">twitter</Link>
+                          <Link href="https://x.com/ucheokpagu">twitter</Link>
                         </li>
                         <li>
-                          <Link href="#">Tiktok</Link>
+                          <Link href="https://www.linkedin.com/in/uokpagu/">linkedin</Link>
                         </li>
-                        <li>
-                          <Link href="#">linkedin</Link>
-                        </li>
-                        <li>
-                          <Link href="#">dribbble</Link>
-                        </li>
-                        <li>
-                          <Link href="#">behance</Link>
-                        </li>
+                        
                       </ul>
                     </div>
                   </div>
@@ -112,6 +104,7 @@ const ContactSection = () => {
                     <form 
                       action="https://formspree.io/f/xwplrvbp" 
                       className="contact__form"
+                      method="POST"
                       onSubmit={handleSubmit}
                     >
                       <div className="row g-4">

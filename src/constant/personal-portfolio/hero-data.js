@@ -17,8 +17,8 @@
 
 export const heroContent = {
   themeName: [
-    { firstName: "UCHE", classes: "text-start text-left" },
-    { firstName: "UCHE", classes: "text-start text-left" },
+    { firstName: "UCHENNA", classes: "text-start text-left" },
+    { firstName: "UCHENNA", classes: "text-start text-left" },
     { lastName: "OKPAGU", classes: "text-end text-right" },
     { lastName: "OKPAGU", classes: "text-end text-right" },
   ],

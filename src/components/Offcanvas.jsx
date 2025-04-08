@@ -84,9 +84,7 @@ const Offcanvas = ({ menus, handleClose, show, className = "", theme }) => {
           <div className="offcanvas-info">
             <div className="about-info">
               <p className="text-white">
-                Nicholls is a sleek portfolio template that helps professionals
-                showcase their work and CV with style. Perfect for anyone
-                looking to make a strong online presence.
+              I’m Uchenna Emmanuel, a seasoned AI Engineer, Technology Leader, and Cloud Architect with over 20 years of experience in software development, AI transformation, and enterprise technology solutions.
               </p>
             </div>
             <div className="btn-wrapper">
@@ -104,22 +102,17 @@ const Offcanvas = ({ menus, handleClose, show, className = "", theme }) => {
               <h5 className="text-white">Contact Me</h5>
               <ul>
                 <OffcanvasSocial
-                  link="#"
-                  socialType="facebook"
-                  className={theme === "dark" ? "text-black bg-lime" : ""}
-                />
-                <OffcanvasSocial
-                  link="#"
+                  link="https://instagram.com/uchokpagu"
                   socialType="twitter"
                   className={theme === "dark" ? "text-black bg-lime" : ""}
                 />
                 <OffcanvasSocial
-                  link="#"
+                  link="https://instagram.com/uchokpagu"
                   socialType="instagram"
                   className={theme === "dark" ? "text-black bg-lime" : ""}
                 />
                 <OffcanvasSocial
-                  link="#"
+                  link="https://www.linkedin.com/in/uokpagu/"
                   socialType="linkedin"
                   className={theme === "dark" ? "text-black bg-lime" : ""}
                 />

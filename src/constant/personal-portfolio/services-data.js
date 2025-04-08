@@ -1,5 +1,5 @@
 export const servicesData = {
-    title: "Services",
+    title: "Skills",
     services: [
       {
         id: 1,

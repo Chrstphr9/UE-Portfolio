@@ -9,13 +9,13 @@ const headerToppData = {
   },
   address: {
     label: "Address",
-    value: "86 Ann StreetCorona, NY 11368",
+    value: "Lagos, Nigeria",
   },
   socialLinks: [
-    { platform: "facebook", url: "#", icon: "fa-facebook-f" },
-    { platform: "twitter", url: "#", icon: "fa-x-twitter" },
-    { platform: "instagram", url: "#", icon: "fa-instagram" },
-    { platform: "dribbble", url: "#", icon: "fa-dribbble" },
+    { platform: "twitter", url: "https://x.com/ucheokpagu", icon: "fa-x-twitter" },
+    { platform: "instagram", url: "https://instagram.com/uchokpagu", icon: "fa-instagram" },
+    { platform: "instagram", url: "https://instagram.com/uchokpagu", icon: "fa-instagram" },
+   
   ],
   logo: "./assets/images/uche_logo_white.svg",
   homeLink: "/",
