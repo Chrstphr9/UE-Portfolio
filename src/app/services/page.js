@@ -5,7 +5,7 @@ import ServiceHero from "@/components/service/ServiceHero";
 import Testimonial from "@/components/service/Testimonial";
 
 export const metadata = {
-  title: "Service || Nicholls - Personal Portfolio/CV NextJS Template",
+  title: "Uchenna Okpagu – Certified AI Scientist & Technology Leader",
 };
 
 const Home = () => {
@@ -14,7 +14,6 @@ const Home = () => {
       <Header />
       <main>
       <ServiceHero />
-      {/* <Testimonial /> */}
       </main>
       <Footer />
     </LightMode>

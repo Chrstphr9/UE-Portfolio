@@ -5,7 +5,7 @@ import BlogSection from "@/components/blog/BlogSection";
 import Footer from "@/components/common/Footer";
 
 export const metadata = {
-  title: "Blog || Nicholls - Personal Portfolio/CV NextJS Template",
+  title: "Uchenna Okpagu – Certified AI Scientist & Technology Leader",
 };
 
 const Home = () => {

@@ -23,15 +23,25 @@ import AnimationProvider from "@/components/providers/AnimationProvider";
 import BackTopTop from "@/components/BackToTop";
 
 export const metadata = {
-  title: "Uchenna Okpagu | Personal Portfolio",
-  description: "Personal Portfolio/CV ",
-  keywords:
-    "Personal Portfolio, CV, Resume, HTML5 Template, NextJS Template, Freelancer, Web Developer, Designer, Digital Portfolio, Nicholls, Sakebul islam",
-  creator: "Uchenna Okpagu",
-  other: {
-    developer: "Uchenna Okpagu",
-  },
+  title: "Uchenna Okpagu – Certified AI Scientist & Technology Leader",
+  description:
+    "Uchenna Okpagu is a seasoned AI Scientist, Technology Leader, and Software Architect with over 20 years of experience in delivering innovative, intelligent solutions.",
+  keywords: [
+    "Uchenna Okpagu",
+    "AI Scientist",
+    "Technology Leader",
+    "Artificial Intelligence",
+    "Software Architect",
+    "CTO",
+    "Machine Learning",
+    "AI Expert",
+    "Tech Leadership",
+    "Innovation",
+    "Software Engineering",
+  ],
+  authors: [{ name: "Uchenna Okpagu" }],
 };
+
 
 export default function RootLayout({ children }) {
   return (

@@ -23,7 +23,7 @@ const BlogSection = () => {
           <div className="col-12">
             <div className="blog-filter__links">
               <ul>
-                
+
                 {categories.map((category, index) => (
                   <React.Fragment key={category}>
                     <li
@@ -68,8 +68,8 @@ const BlogSection = () => {
                   <Link
                      href={post?.url || "/blog-details"}
                     className="common-btn common-btn--color-reverse"
-                    target="_blank"  // This makes it open in new tab
-                    rel="noopener noreferrer"  // Security best practice
+                    target="_blank" 
+                    rel="noopener noreferrer"  
                   >
                     Read More
                     <i className="fa-solid fa-arrow-right"></i>

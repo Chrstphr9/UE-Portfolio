@@ -2,10 +2,9 @@ import LightMode from "@/components/LightMode";
 import Footer from "@/components/common/Footer";
 import Header from "@/components/common/Header";
 import ContactSection from "@/components/contact/ContactSection";
-import FaqSection from "@/components/contact/FaqSection";
 
 export const metadata = {
-  title: "Contact || Nicholls - Personal Portfolio/CV NextJS Template",
+  title: "Uchenna Okpagu – Certified AI Scientist & Technology Leader",
 };
 
 const Home = () => {
@@ -14,7 +13,6 @@ const Home = () => {
       <Header/>
       <main>
         <ContactSection/>
-        {/* <FaqSection/> */}
       </main>
       <Footer/>
     </LightMode>
