@@ -30,7 +30,7 @@ const Header = ({ className }) => {
                     <div className="col-6 col-md-2 col-lg-2 col-xl-1">
                       <div className="d-flex justify-content-md-end">
                         <Link className="header__topbar-logo" href="/">
-                          <img src="./assets/images/Uche_logo_white.svg" alt="logo" />
+                          <img src="./assets/images/uche_logo_white.svg" alt="logo" />
                         </Link>
                       </div>
                     </div>
