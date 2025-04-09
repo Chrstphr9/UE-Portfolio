@@ -89,7 +89,7 @@ const ContactSection = () => {
                             href="mailto:admincontact@gmail.com"
                             className="email"
                           >
-                            hello@ucheokpagu.com
+                            hello@Uchennaokpagu.com
                           </Link>
                         </li>
                       </ul>
@@ -106,7 +106,7 @@ const ContactSection = () => {
                           <Link href="https://instagram.com/uchokpagu">Instagram</Link>
                         </li>
                         <li>
-                          <Link href="https://x.com/ucheokpagu">twitter</Link>
+                          <Link href="https://x.com/Uchennaokpagu">twitter</Link>
                         </li>
                         <li>
                           <Link href="https://www.linkedin.com/in/uokpagu/">linkedin</Link>

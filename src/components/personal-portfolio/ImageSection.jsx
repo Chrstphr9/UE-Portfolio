@@ -3,7 +3,7 @@ import React from "react";
 const imageData = {
   title:
     "",
-  backgroundImage: "./assets/images/ucheinnovate_tmxhe4.svg",
+  backgroundImage: "./assets/images/Uchennainnovate_tmxhe4.svg",
 };
 
 const ImageSection = () => {

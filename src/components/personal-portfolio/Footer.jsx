@@ -83,7 +83,7 @@ const Footer = () => {
     <ul>
       {footerData?.bottomSection?.footerNav?.map((item) => (
         <li key={item?.id}>
-          <Link href={item?.url} style={{ color: 'white' }}>{item?.text}</Link>
+          <Link href={item.link} style={{ color: 'white' }}>{item?.text}</Link>
         </li>
       ))}
     </ul>

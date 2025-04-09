@@ -65,12 +65,22 @@ const Header = () => {
                                   : ""
                               }
                             >
-                              <Link href={menu.link || "#0"} target="_blank">
-                                {menu?.name}
-                                {menu?.subMenu && menu?.subMenu.length > 0 && (
-                                  <i className="fa-solid fa-angle-down"></i>
-                                )}
-                              </Link>
+                             {menu.newTab ? (
+  <a href={menu.link} target="_blank" rel="noopener noreferrer">
+    {menu.name}
+    {menu?.subMenu && menu?.subMenu.length > 0 && (
+      <i className="fa-solid fa-angle-down"></i>
+    )}
+  </a>
+) : (
+  <Link href={menu.link || "#0"}>
+    {menu.name}
+    {menu?.subMenu && menu?.subMenu.length > 0 && (
+      <i className="fa-solid fa-angle-down"></i>
+    )}
+  </Link>
+)}
+
                               {menu?.subMenu && menu?.subMenu.length > 0 && (
                                 <ul>
                                   {menu.subMenu.map((subMenuItem) => (
@@ -106,7 +116,7 @@ const Header = () => {
                       </div>
                       <div className="text-end d-xl-none">
                         <Link className="header__main-logo" href="/">
-                          <img src="./assets/images/uche_logo_white.svg" alt="logo" />
+                          <img src="./assets/images/Uchenna_logo_white.svg" alt="logo" />
                         </Link>
                       </div>
                       <button className="header__hamburger d-none">

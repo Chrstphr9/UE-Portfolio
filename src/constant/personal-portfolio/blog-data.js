@@ -3,7 +3,7 @@ const blogData = {
   blogs: [
       {
           id: 1,
-          author: "Uche Okpagu",
+          author: "Uchenna Okpagu",
           date: "Feburary 24, 2025",
           title: "How DeepSeek’s AI Models can supercharge AI innovation for your business  ",
           image: "./assets/images/blog-area/blog-thumb-1.png",
@@ -12,7 +12,7 @@ const blogData = {
       },
       {
           id: 2,
-          author: "Uche Okpagu",
+          author: "Uchenna Okpagu",
           date: "December 14, 2024",
           title: "Ethical and responsible AI deployment: A focus on Africa ",
           image: "./assets/images/blog-area/blog-thumb-1.png",
@@ -21,7 +21,7 @@ const blogData = {
       },
       {
           id: 3,
-          author: "Uche Okpagu",
+          author: "Uchenna Okpagu",
           date: "December 13, 2024",
           title: "Can Universal Basic Income (UBI) Be A Sustainable Response to The Rise of AI Agents?",
           image: "./assets/images/blog-area/blog-thumb-1.png",

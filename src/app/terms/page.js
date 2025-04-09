@@ -4,7 +4,7 @@ export default function Terms() {
   return (
     <>
       <Head>
-        <title>Terms & Conditions | Uchenna Okpagu</title>
+        <title>Terms & Conditions | Uchennanna Okpagu</title>
         <link
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
           rel="stylesheet"
@@ -26,26 +26,26 @@ export default function Terms() {
                 <h3 className="h5">General Terms</h3>
                 <p className="mb-3">
                   By accessing and placing an order with{" "}
-                  <strong>Uchenna Okpagu</strong>, you confirm that you are in
+                  <strong>Uchennanna Okpagu</strong>, you confirm that you are in
                   agreement with and bound by the terms of service contained in
                   the Terms & Conditions outlined below. These terms apply to
                   the entire website and any email or other type of
-                  communication between you and <strong>Uchenna Okpagu</strong>.
+                  communication between you and <strong>Uchennanna Okpagu</strong>.
                 </p>
                 <p className="mb-3">
-                  Under no circumstances shall <strong>Uchenna Okpagu</strong>{" "}
+                  Under no circumstances shall <strong>Uchennanna Okpagu</strong>{" "}
                   team be liable for any direct, indirect, special, incidental
                   or consequential damages, including, but not limited to, loss
                   of data or profit, arising out of the use, or the inability to
                   use, the materials on this site, even if{" "}
-                  <strong>Uchenna Okpagu</strong> team or an authorized
+                  <strong>Uchennanna Okpagu</strong> team or an authorized
                   representative has been advised of the possibility of such
                   damages. If your use of materials from this site results in
                   the need for servicing, repair or correction of equipment or
                   data, you assume any costs thereof.
                 </p>
                 <p>
-                  <strong>Uchenna Okpagu</strong> will not be responsible for
+                  <strong>Uchennanna Okpagu</strong> will not be responsible for
                   any outcome that may occur during the course of usage of our
                   resources. We reserve the rights to change prices and revise
                   the resources usage policy at any moment. This Terms &
@@ -56,24 +56,24 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">License</h3>
                 <p className="mb-3">
-                  <strong>Uchenna Okpagu</strong> grants you a revocable,
+                  <strong>Uchennanna Okpagu</strong> grants you a revocable,
                   non-exclusive, non-transferable, limited license to download,
                   install and use the website strictly in accordance with the
                   terms of this Agreement.
                 </p>
                 <p className="mb-3">
                   These Terms & Conditions are a contract between you and{" "}
-                  <strong>Uchenna Okpagu</strong> (referred to in these Terms &
-                  Conditions as "Uchenna Okpagu", "us", "we" or "our"), the
-                  provider of the Uchenna Okpagu website and the services
-                  accessible from the Uchenna Okpagu website (which are
+                  <strong>Uchennanna Okpagu</strong> (referred to in these Terms &
+                  Conditions as "Uchennanna Okpagu", "us", "we" or "our"), the
+                  provider of the Uchennanna Okpagu website and the services
+                  accessible from the Uchennanna Okpagu website (which are
                   collectively referred to in these Terms & Conditions as the
-                  "Uchenna Okpagu Service").
+                  "Uchennanna Okpagu Service").
                 </p>
                 <p>
                   You are agreeing to be bound by these Terms & Conditions. If
                   you do not agree to these Terms & Conditions, please do not
-                  use the Uchenna Okpagu Service. In these Terms & Conditions,
+                  use the Uchennanna Okpagu Service. In these Terms & Conditions,
                   "you" refers both to you as an individual and to the entity
                   you represent. If you violate any of these Terms & Conditions,
                   we reserve the right to cancel your account or block access to
@@ -98,22 +98,22 @@ export default function Terms() {
                   </li>
                   <li>
                     <strong>Company</strong>: when this policy mentions
-                    “Company,” “we,” “us,” or “our,” it refers to Uchenna
+                    “Company,” “we,” “us,” or “our,” it refers to Uchennanna
                     Okpagu, that is responsible for your information under this
                     Terms & Conditions.
                   </li>
                   <li>
-                    <strong>Country</strong>: where Uchenna Okpagu or the
-                    owners/founders of Uchenna Okpagu are based, in this case is
+                    <strong>Country</strong>: where Uchennanna Okpagu or the
+                    owners/founders of Uchennanna Okpagu are based, in this case is
                   </li>
                   <li>
                     <strong>Device</strong>: any internet connected device such
                     as a phone, tablet, computer or any other device that can be
-                    used to visit Uchenna Okpagu and use the services.
+                    used to visit Uchennanna Okpagu and use the services.
                   </li>
                   <li>
                     <strong>Service</strong>: refers to the service provided by
-                    Uchenna Okpagu as described in the relative terms (if
+                    Uchennanna Okpagu as described in the relative terms (if
                     available) and on this platform.
                   </li>
                   <li>
@@ -123,8 +123,8 @@ export default function Terms() {
                     we think may interest you.
                   </li>
                   <li>
-                    <strong>Website</strong>: Uchenna Okpagu's site, which can
-                    be accessed via this URL: www.ucheokpagu.com
+                    <strong>Website</strong>: Uchennanna Okpagu's site, which can
+                    be accessed via this URL: www.Uchennaokpagu.com
                   </li>
                   <li>
                     <strong>You</strong>: the user or entity using our services.
@@ -148,7 +148,7 @@ export default function Terms() {
                   </li>
                   <li>
                     Remove, alter or obscure any proprietary notice (including
-                    any notice of copyright or trademark) of Uchenna Okpagu or
+                    any notice of copyright or trademark) of Uchennanna Okpagu or
                     its affiliates, partners, suppliers or the licensors of the
                     website.
                   </li>
@@ -158,17 +158,17 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Return and Refund Policy</h3>
                 <p className="mb-3">
-                  Thanks for shopping at Uchenna Okpagu. We appreciate the fact
+                  Thanks for shopping at Uchennanna Okpagu. We appreciate the fact
                   that you like to buy the stuff we build. We also want to make
                   sure you have a rewarding experience while you’re exploring,
                   evaluating, and purchasing our products.
                 </p>
                 <p className="mb-3">
                   As with any shopping experience, there are terms and
-                  conditions that apply to transactions at Uchenna Okpagu. We’ll
+                  conditions that apply to transactions at Uchennanna Okpagu. We’ll
                   be as brief as our attorneys will allow. The main thing to
                   remember is that by placing an order or making a purchase at
-                  Uchenna Okpagu, you agree to the terms along with Uchenna
+                  Uchennanna Okpagu, you agree to the terms along with Uchennanna
                   Okpagu's Privacy Policy.
                 </p>
                 <p>
@@ -183,9 +183,9 @@ export default function Terms() {
                 <h3 className="h5">Your Suggestions</h3>
                 <p>
                   Any feedback, comments, ideas, improvements or suggestions
-                  (collectively, "Suggestions") provided by you to Uchenna
+                  (collectively, "Suggestions") provided by you to Uchennanna
                   Okpagu with respect to the website shall remain the sole and
-                  exclusive property of Uchenna Okpagu. Uchenna Okpagu shall be
+                  exclusive property of Uchennanna Okpagu. Uchennanna Okpagu shall be
                   free to use, copy, modify, publish, or redistribute the
                   Suggestions for any purpose and in any way without any credit
                   or any compensation to you.
@@ -208,7 +208,7 @@ export default function Terms() {
                 <p>
                   This Terms & Conditions applies only to the Services. The
                   Services may contain links to other websites not operated or
-                  controlled by Uchenna Okpagu. We are not responsible for the
+                  controlled by Uchennanna Okpagu. We are not responsible for the
                   content, accuracy or opinions expressed in such websites, and
                   such websites are not investigated, monitored or checked for
                   accuracy or completeness by us. Please remember that when you
@@ -224,7 +224,7 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Cookies</h3>
                 <p>
-                  Uchenna Okpagu uses "Cookies" to identify the areas of our
+                  Uchennanna Okpagu uses "Cookies" to identify the areas of our
                   website that you have visited. A Cookie is a small piece of
                   data stored on your computer or mobile device by your web
                   browser. We use Cookies to enhance the performance and
@@ -243,13 +243,13 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Changes To Our Terms & Conditions</h3>
                 <p className="mb-3">
-                  You acknowledge and agree that Uchenna Okpagu may stop
+                  You acknowledge and agree that Uchennanna Okpagu may stop
                   (permanently or temporarily) providing the Service (or any
                   features within the Service) to you or to users generally at
                   sole discretion, without prior notice to you. You may stop
                   using the Service at any time. You do not need to specifically
-                  inform Uchenna Okpagu when you stop using the Service. You
-                  acknowledge and agree that if Uchenna Okpagu disables access
+                  inform Uchennanna Okpagu when you stop using the Service. You
+                  acknowledge and agree that if Uchennanna Okpagu disables access
                   to your account, you may be prevented from accessing the
                   Service, your account details or any files or other materials
                   which is contained in your account.
@@ -264,7 +264,7 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Modifications to Our website</h3>
                 <p className="mb-3">
-                  Uchenna Okpagu reserves the right to modify, suspend or
+                  Uchennanna Okpagu reserves the right to modify, suspend or
                   discontinue, temporarily or permanently, the website or any
                   service to which it connects, with or without notice and
                   without liability to you.
@@ -274,14 +274,14 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Updates to Our website</h3>
                 <p className="mb-3">
-                  Uchenna Okpagu may from time to time provide enhancements or
+                  Uchennanna Okpagu may from time to time provide enhancements or
                   improvements to the features/ functionality of the website,
                   which may include patches, bug fixes, updates, upgrades and
                   other modifications ("Updates").
                 </p>
                 <p className="mb-3">
                   Updates may modify or delete certain features and/or
-                  functionalities of the website. You agree that Uchenna Okpagu
+                  functionalities of the website. You agree that Uchennanna Okpagu
                   has no obligation to (i) provide any Updates, or (ii) continue
                   to provide or enable any particular features and/or
                   functionalities of the website to you.
@@ -302,11 +302,11 @@ export default function Terms() {
                   ("Third- Party Services").
                 </p>
                 <p className="mb-3">
-                  You acknowledge and agree that Uchenna Okpagu shall not be
+                  You acknowledge and agree that Uchennanna Okpagu shall not be
                   responsible for any Third-Party Services, including their
                   accuracy, completeness, timeliness, validity, copyright
                   compliance, legality, decency, quality or any other aspect
-                  thereof. Uchenna Okpagu does not assume and shall not have any
+                  thereof. Uchennanna Okpagu does not assume and shall not have any
                   liability or responsibility to you or any other person or
                   entity for any Third-Party Services.
                 </p>
@@ -322,16 +322,16 @@ export default function Terms() {
                 <h3 className="h5">Term and Termination</h3>
                 <p className="mb-3">
                   This Agreement shall remain in effect until terminated by you
-                  or Uchenna Okpagu.
+                  or Uchennanna Okpagu.
                 </p>
                 <p className="mb-3">
-                  Uchenna Okpagu may, in its sole discretion, at any time and
+                  Uchennanna Okpagu may, in its sole discretion, at any time and
                   for any or no reason, suspend or terminate this Agreement with
                   or without prior notice.
                 </p>
                 <p className="mb-3">
                   This Agreement will terminate immediately, without prior
-                  notice from Uchenna Okpagu, in the event that you fail to
+                  notice from Uchennanna Okpagu, in the event that you fail to
                   comply with any provision of this Agreement. You may also
                   terminate this Agreement by deleting the website and all
                   copies thereof from your computer.
@@ -342,7 +342,7 @@ export default function Terms() {
                   computer.
                 </p>
                 <p>
-                  Termination of this Agreement will not limit any of Uchenna
+                  Termination of this Agreement will not limit any of Uchennanna
                   Okpagu's rights or remedies at law or in equity in case of
                   breach by you (during the term of this Agreement) of any of
                   your obligations under the present Agreement.
@@ -371,7 +371,7 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Indemnification</h3>
                 <p>
-                  You agree to indemnify and hold Uchenna Okpagu and its
+                  You agree to indemnify and hold Uchennanna Okpagu and its
                   parents, subsidiaries, affiliates, officers, employees,
                   agents, partners and licensors (if any) harmless from any
                   claim or demand, including reasonable attorneys' fees, due to
@@ -386,7 +386,7 @@ export default function Terms() {
                 <p className="mb-3">
                   The website is provided to you "AS IS" and "AS AVAILABLE" and
                   with all faults and defects without warranty of any kind. To
-                  the maximum extent permitted under applicable law, Uchenna
+                  the maximum extent permitted under applicable law, Uchennanna
                   Okpagu, on its own behalf and on behalf of its affiliates and
                   its and their respective licensors and service providers,
                   expressly disclaims all warranties, whether express, implied,
@@ -395,7 +395,7 @@ export default function Terms() {
                   particular purpose, title and non-infringement, and warranties
                   that may arise out of course of dealing, course of
                   performance, usage or trade practice. Without limitation to
-                  the foregoing, Uchenna Okpagu provides no warranty or
+                  the foregoing, Uchennanna Okpagu provides no warranty or
                   undertaking, and makes no representation of any kind that the
                   website will meet your requirements, achieve any intended
                   results, be compatible or work with any other software, ,
@@ -404,8 +404,8 @@ export default function Terms() {
                   any errors or defects can or will be corrected.
                 </p>
                 <p className="mb-3">
-                  Without limiting the foregoing, neither Uchenna Okpagu nor any
-                  Uchenna Okpagu's provider makes any representation or warranty
+                  Without limiting the foregoing, neither Uchennanna Okpagu nor any
+                  Uchennanna Okpagu's provider makes any representation or warranty
                   of any kind, express or implied: (i) as to the operation or
                   availability of the website, or the information, content, and
                   materials or products included thereon; (ii) that the website
@@ -413,7 +413,7 @@ export default function Terms() {
                   reliability, or currency of any information or content
                   provided through the website; or (iv) that the website, its
                   servers, the content, or e-mails sent from or on behalf of
-                  Uchenna Okpagu are free of viruses, scripts, trojan horses,
+                  Uchennanna Okpagu are free of viruses, scripts, trojan horses,
                   worms, malware, timebombs or other harmful components.
                 </p>
                 <p>
@@ -428,14 +428,14 @@ export default function Terms() {
                 <h3 className="h5">Limitation of Liability</h3>
                 <p className="mb-3">
                   Notwithstanding any damages that you might incur, the entire
-                  liability of Uchenna Okpagu and any of its suppliers under any
+                  liability of Uchennanna Okpagu and any of its suppliers under any
                   provision of this Agreement and your exclusive remedy for all
                   of the foregoing shall be limited to the amount actually paid
                   by you for the website.
                 </p>
                 <p className="mb-3">
                   To the maximum extent permitted by applicable law, in no event
-                  shall Uchenna Okpagu or its suppliers be liable for any
+                  shall Uchennanna Okpagu or its suppliers be liable for any
                   special, incidental, indirect, or consequential damages
                   whatsoever (including, but not limited to, damages for loss of
                   profits, for loss of data or other information, for business
@@ -443,7 +443,7 @@ export default function Terms() {
                   out of or in any way related to the use of or inability to use
                   the website, third-party software and/or third-party hardware
                   used with the website, or otherwise in connection with any
-                  provision of this Agreement), even if Uchenna Okpagu or any
+                  provision of this Agreement), even if Uchennanna Okpagu or any
                   supplier has been advised of the possibility of such damages
                   and even if the remedy fails of its essential purpose.
                 </p>
@@ -465,8 +465,8 @@ export default function Terms() {
                 </p>
                 <p>
                   This Agreement, together with the Privacy Policy and any other
-                  legal notices published by Uchenna Okpagu on the Services,
-                  shall constitute the entire agreement between you and Uchenna
+                  legal notices published by Uchennanna Okpagu on the Services,
+                  shall constitute the entire agreement between you and Uchennanna
                   Okpagu concerning the Services. If any provision of this
                   Agreement is deemed invalid by a court of competent
                   jurisdiction, the invalidity of such provision shall not
@@ -474,9 +474,9 @@ export default function Terms() {
                   Agreement, which shall remain in full force and effect. No
                   waiver of any term of this Agreement shall be deemed a further
                   or continuing waiver of such term or any other term, and
-                  Uchenna Okpagu's failure to assert any right or provision
+                  Uchennanna Okpagu's failure to assert any right or provision
                   under this Agreement shall not constitute a waiver of such
-                  right or provision. YOU AND Uchenna Okpagu AGREE THAT ANY
+                  right or provision. YOU AND Uchennanna Okpagu AGREE THAT ANY
                   CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICES MUST
                   COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION
                   ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY
@@ -509,7 +509,7 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Amendments to this Agreement</h3>
                 <p className="mb-3">
-                  Uchenna Okpagu reserves the right, at its sole discretion, to
+                  Uchennanna Okpagu reserves the right, at its sole discretion, to
                   modify or replace this Agreement at any time. If a revision is
                   material we will provide at least 30 days' notice prior to any
                   new terms taking effect. What constitutes a material change
@@ -519,7 +519,7 @@ export default function Terms() {
                   By continuing to access or use our website after any revisions
                   become effective, you agree to be bound by the revised terms.
                   If you do not agree to the new terms, you are no longer
-                  authorized to use Uchenna Okpagu.
+                  authorized to use Uchennanna Okpagu.
                 </p>
               </section>
 
@@ -527,14 +527,14 @@ export default function Terms() {
                 <h3 className="h5">Entire Agreement</h3>
                 <p className="mb-3">
                   The Agreement constitutes the entire agreement between you and
-                  Uchenna Okpagu regarding your use of the website and
+                  Uchennanna Okpagu regarding your use of the website and
                   supersedes all prior and contemporaneous written or oral
-                  agreements between you and Uchenna Okpagu.
+                  agreements between you and Uchennanna Okpagu.
                 </p>
                 <p>
                   You may be subject to additional terms and conditions that
-                  apply when you use or purchase other Uchenna Okpagu's
-                  services, which Uchenna Okpagu will provide to you at the time
+                  apply when you use or purchase other Uchennanna Okpagu's
+                  services, which Uchennanna Okpagu will provide to you at the time
                   of such use or purchase.
                 </p>
               </section>
@@ -561,13 +561,13 @@ export default function Terms() {
                   functionality (including but not limited to all information,
                   software, text, displays, images, video and audio, and the
                   design, selection and arrangement thereof), are owned by
-                  Uchenna Okpagu, its licensors or other providers of such
+                  Uchennanna Okpagu, its licensors or other providers of such
                   material and are protected by and international copyright,
                   trademark, patent, trade secret and other intellectual
                   property or proprietary rights laws. The material may not be
                   copied, modified, reproduced, downloaded or distributed in any
                   way, in whole or in part, without the express prior written
-                  permission of Uchenna Okpagu, unless and except as is
+                  permission of Uchennanna Okpagu, unless and except as is
                   expressly provided in these Terms & Conditions. Any
                   unauthorized use of the material is prohibited.
                 </p>
@@ -579,9 +579,9 @@ export default function Terms() {
                   This section applies to any dispute EXCEPT IT DOESN’T INCLUDE
                   A DISPUTE RELATING TO CLAIMS FOR INJUNCTIVE OR EQUITABLE
                   RELIEF REGARDING THE ENFORCEMENT OR VALIDITY OF YOUR OR
-                  Uchenna Okpagu's INTELLECTUAL PROPERTY RIGHTS. The term
+                  Uchennanna Okpagu's INTELLECTUAL PROPERTY RIGHTS. The term
                   “dispute” means any dispute, action, or other controversy
-                  between you and Uchenna Okpagu concerning the Services or this
+                  between you and Uchennanna Okpagu concerning the Services or this
                   agreement, whether in contract, warranty, tort, statute,
                   regulation, ordinance, or any other legal or equitable basis.
                   “Dispute” will be given the broadest possible meaning
@@ -592,17 +592,17 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Notice of Dispute</h3>
                 <p>
-                  In the event of a dispute, you or Uchenna Okpagu must give the
+                  In the event of a dispute, you or Uchennanna Okpagu must give the
                   other a Notice of Dispute, which is a written statement that
                   sets forth the name, address, and contact information of the
                   party giving it, the facts giving rise to the dispute, and the
                   relief requested. You must send any Notice of Dispute via
-                  email to: [email protected]. Uchenna Okpagu will send any
+                  email to: [email protected]. Uchennanna Okpagu will send any
                   Notice of Dispute to you by mail to your address if we have
-                  it, or otherwise to your email address. You and Uchenna Okpagu
+                  it, or otherwise to your email address. You and Uchennanna Okpagu
                   will attempt to resolve any dispute through informal
                   negotiation within sixty (60) days from the date the Notice of
-                  Dispute is sent. After sixty (60) days, you or Uchenna Okpagu
+                  Dispute is sent. After sixty (60) days, you or Uchennanna Okpagu
                   may commence arbitration.
                 </p>
               </section>
@@ -610,7 +610,7 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Binding Arbitration</h3>
                 <p>
-                  If you and Uchenna Okpagu don’t resolve any dispute by
+                  If you and Uchennanna Okpagu don’t resolve any dispute by
                   informal negotiation, any other effort to resolve the dispute
                   will be conducted exclusively by binding arbitration as
                   described in this section. You are giving up the right to
@@ -636,9 +636,9 @@ export default function Terms() {
                   improved products, services, features, technologies or
                   promotions, you expressly agree that such submissions will
                   automatically be treated as non-confidential and
-                  non-proprietary and will become the sole property of Uchenna
+                  non-proprietary and will become the sole property of Uchennanna
                   Okpagu without any compensation or credit to you whatsoever.
-                  Uchenna Okpagu and its affiliates shall have no obligations
+                  Uchennanna Okpagu and its affiliates shall have no obligations
                   with respect to such submissions or posts and may use the
                   ideas contained in such submissions or posts for any purposes
                   in any medium in perpetuity, including, but not limited to,
@@ -650,7 +650,7 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Promotions</h3>
                 <p className="mb-3">
-                  Uchenna Okpagu may, from time to time, include contests,
+                  Uchennanna Okpagu may, from time to time, include contests,
                   promotions, sweepstakes, or other activities (“Promotions”)
                   that require you to submit material or information concerning
                   yourself. Please note that all Promotions may be governed by
@@ -694,22 +694,22 @@ export default function Terms() {
                   unenforceable, the remainder of these Terms & Conditions will
                   continue in full force and effect. Any waiver of any provision
                   of these Terms & Conditions will be effective only if in
-                  writing and signed by an authorized representative of Uchenna
-                  Okpagu. Uchenna Okpagu will be entitled to injunctive or other
+                  writing and signed by an authorized representative of Uchennanna
+                  Okpagu. Uchennanna Okpagu will be entitled to injunctive or other
                   equitable relief (without the obligations of posting any bond
                   or surety) in the event of any breach or anticipatory breach
-                  by you. Uchenna Okpagu operates and controls the Uchenna
+                  by you. Uchennanna Okpagu operates and controls the Uchennanna
                   Okpagu Service from its offices in . The Service is not
                   intended for distribution to or use by any person or entity in
                   any jurisdiction or country where such distribution or use
                   would be contrary to law or regulation. Accordingly, those
-                  persons who choose to access the Uchenna Okpagu Service from
+                  persons who choose to access the Uchennanna Okpagu Service from
                   other locations do so on their own initiative and are solely
                   responsible for compliance with local laws, if and to the
                   extent local laws are applicable. These Terms & Conditions
-                  (which include and incorporate the Uchenna Okpagu Privacy
+                  (which include and incorporate the Uchennanna Okpagu Privacy
                   Policy) contains the entire understanding, and supersedes all
-                  prior understandings, between you and Uchenna Okpagu
+                  prior understandings, between you and Uchennanna Okpagu
                   concerning its subject matter, and cannot be changed or
                   modified by you. The section headings used in this Agreement
                   are for convenience only and will not be given any legal
@@ -720,12 +720,12 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Disclaimer</h3>
                 <p>
-                  Uchenna Okpagu is not responsible for any content, code or any
+                  Uchennanna Okpagu is not responsible for any content, code or any
                   other imprecision.
                 </p>
-                <p className="mb-3">Uchenna Okpagu does not provide warranties or guarantees.</p>
+                <p className="mb-3">Uchennanna Okpagu does not provide warranties or guarantees.</p>
                 <p className="mb-3">
-                  In no event shall Uchenna Okpagu be liable for any special,
+                  In no event shall Uchennanna Okpagu be liable for any special,
                   direct, indirect, consequential, or incidental damages or any
                   damages whatsoever, whether in an action of contract,
                   negligence or other tort, arising out of or in connection with
@@ -735,29 +735,29 @@ export default function Terms() {
                   without prior notice.
                 </p>
                 <p>
-                  The Uchenna Okpagu Service and its contents are provided "as
+                  The Uchennanna Okpagu Service and its contents are provided "as
                   is" and "as available" without any warranty or representations
-                  of any kind, whether express or implied. Uchenna Okpagu is a
+                  of any kind, whether express or implied. Uchennanna Okpagu is a
                   distributor and not a publisher of the content supplied by
-                  third parties; as such, Uchenna Okpagu exercises no editorial
+                  third parties; as such, Uchennanna Okpagu exercises no editorial
                   control over such content and makes no warranty or
                   representation as to the accuracy, reliability or currency of
                   any information, content, service or merchandise provided
-                  through or accessible via the Uchenna Okpagu Service. Without
-                  limiting the foregoing, Uchenna Okpagu specifically disclaims
+                  through or accessible via the Uchennanna Okpagu Service. Without
+                  limiting the foregoing, Uchennanna Okpagu specifically disclaims
                   all warranties and representations in any content transmitted
-                  on or in connection with the Uchenna Okpagu Service or on
-                  sites that may appear as links on the Uchenna Okpagu Service,
+                  on or in connection with the Uchennanna Okpagu Service or on
+                  sites that may appear as links on the Uchennanna Okpagu Service,
                   or in the products provided as a part of, or otherwise in
-                  connection with, the Uchenna Okpagu Service, including without
+                  connection with, the Uchennanna Okpagu Service, including without
                   limitation any warranties of merchantability, fitness for a
                   particular purpose or non-infringement of third party rights.
-                  No oral advice or written information given by Uchenna Okpagu
+                  No oral advice or written information given by Uchennanna Okpagu
                   or any of its affiliates, employees, officers, directors,
                   agents, or the like will create a warranty. Price and
                   availability information is subject to change without notice.
-                  Without limiting the foregoing, Uchenna Okpagu does not
-                  warrant that the Uchenna Okpagu Service will be uninterrupted,
+                  Without limiting the foregoing, Uchennanna Okpagu does not
+                  warrant that the Uchennanna Okpagu Service will be uninterrupted,
                   uncorrupted, timely, or error-free.
                 </p>
               </section>

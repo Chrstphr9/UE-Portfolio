@@ -12,12 +12,12 @@ const headerToppData = {
     value: "Lagos, Nigeria",
   },
   socialLinks: [
-    { platform: "twitter", url: "https://x.com/ucheokpagu", icon: "fa-x-twitter" },
+    { platform: "twitter", url: "https://x.com/Uchennaokpagu", icon: "fa-x-twitter" },
     { platform: "instagram", url: "https://instagram.com/uchokpagu", icon: "fa-instagram" },
     { platform: "instagram", url: "https://instagram.com/uchokpagu", icon: "fa-instagram" },
    
   ],
-  logo: "./assets/images/uche_logo_white.svg",
+  logo: "./assets/images/Uchenna_logo_white.svg",
   homeLink: "/",
 };
 

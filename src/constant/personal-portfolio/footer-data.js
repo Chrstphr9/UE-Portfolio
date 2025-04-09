@@ -7,7 +7,7 @@ const footerData = {
 
   centerSection: {
     avatar: {
-      src: "./assets/images/uche_face.svg",
+      src: "./assets/images/Uchenna_face.svg",
       alt: "footer-mask-avatar",
     },
     socialLinks: [
@@ -23,7 +23,7 @@ const footerData = {
       },
       {
         name: "twitter",
-        url: "https://x.com/ucheokpagu",
+        url: "https://x.com/Uchennaokpagu",
         id: "twitter",
       },
     ],
@@ -35,7 +35,7 @@ const footerData = {
 
   bottomSection: {
     copyright: {
-      text: "© 2025. All rights reserved Uche Okpagu.",
+      text: "© 2025. All rights reserved Uchenna Okpagu.",
       year: new Date().getFullYear(),
     },
     backToTop: {
@@ -45,12 +45,12 @@ const footerData = {
     footerNav: [
       {
         text: "Terms & Condition",
-        url: "#",
+        link: "/terms",
         id: "terms",
       },
       {
         text: "Privacy Policy",
-        url: "#",
+        link: "/policy",
         id: "privacy",
       },
     ],

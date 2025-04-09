@@ -23,7 +23,7 @@ const menus = [
   {
     id: 5,
     name: "Videos",
-    link: "https://youtube.com/@ucheokpagu",
+    link: "https://youtube.com/@Uchennaokpagu",
     newTab: true
   },
   {

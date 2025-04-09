@@ -17,12 +17,12 @@
 
 export const heroContent = {
   themeName: [
-    { firstName: "UCHENNA", classes: "text-start text-left" },
-    { firstName: "UCHENNA", classes: "text-start text-left" },
+    { firstName: "UchennaNNA", classes: "text-start text-left" },
+    { firstName: "UchennaNNA", classes: "text-start text-left" },
     { lastName: "OKPAGU", classes: "text-end text-right" },
     { lastName: "OKPAGU", classes: "text-end text-right" },
   ],
-  maskImage: "./assets/images/uche_face.svg",
+  maskImage: "./assets/images/Uchenna_face.svg",
   description:
     "I’m a Certified AI Scientist and Technology Leader",
   ctaText: "Let's Connect",

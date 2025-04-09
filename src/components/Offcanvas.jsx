@@ -15,7 +15,7 @@ const Offcanvas = ({ menus, handleClose, show, className = "", theme }) => {
         className={`${theme === "dark" ? "bg-eerie-black text-white" : ""}`}
       >
         <ReactOffcanvas.Header>
-          <ReactOffcanvas.Title as="h4" className="text-white">Uche</ReactOffcanvas.Title>
+          <ReactOffcanvas.Title as="h4" className="text-white">Uchenna</ReactOffcanvas.Title>
           <button
             onClick={handleClose}
             type="button"
@@ -84,7 +84,7 @@ const Offcanvas = ({ menus, handleClose, show, className = "", theme }) => {
           <div className="offcanvas-info">
             <div className="about-info">
               <p className="text-white">
-              I’m Uchenna Emmanuel, a seasoned AI Engineer, Technology Leader, and Cloud Architect with over 20 years of experience in software development, AI transformation, and enterprise technology solutions.
+              I’m Uchennanna Emmanuel, a seasoned AI Engineer, Technology Leader, and Cloud Architect with over 20 years of experience in software development, AI transformation, and enterprise technology solutions.
               </p>
             </div>
             <div className="btn-wrapper">

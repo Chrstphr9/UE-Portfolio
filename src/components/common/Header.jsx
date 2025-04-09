@@ -31,7 +31,7 @@ const Header = ({ className }) => {
                     <div className="col-6 col-md-2 col-lg-2 col-xl-1">
                       <div className="d-flex justify-content-md-end">
                         <Link className="header__topbar-logo" href="/">
-                          <img src="./assets/images/uche_logo_white.svg" alt="logo" />
+                          <img src="./assets/images/Uchenna_logo_white.svg" alt="logo" />
                         </Link>
                       </div>
                     </div>
@@ -51,12 +51,22 @@ const Header = ({ className }) => {
                                   : ""
                               }
                             >
-                              <Link href={menu.link || "#0"}>
-                                {menu?.name}
-                                {menu?.subMenu && menu?.subMenu.length > 0 && (
-                                  <i className="fa-solid fa-angle-down"></i>
-                                )}
-                              </Link>
+                              {menu.newTab ? (
+  <a href={menu.link} target="_blank" rel="noopener noreferrer">
+    {menu.name}
+    {menu?.subMenu && menu?.subMenu.length > 0 && (
+      <i className="fa-solid fa-angle-down"></i>
+    )}
+  </a>
+) : (
+  <Link href={menu.link || "#0"}>
+    {menu.name}
+    {menu?.subMenu && menu?.subMenu.length > 0 && (
+      <i className="fa-solid fa-angle-down"></i>
+    )}
+  </Link>
+)}
+
                               {menu?.subMenu && menu?.subMenu.length > 0 && (
                                 <ul>
                                   {menu.subMenu.map((subMenuItem) => (
