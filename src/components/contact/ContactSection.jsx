@@ -3,39 +3,56 @@ import React, { useState } from "react";
 import Link from "next/link";
 
 const ContactSection = () => {
-  const [isModalOpen, setIsModalOpen] = useState(false);
   const [formData, setFormData] = useState({
-    'contact-name': '',
-    'contact-email': '',
-    'contact-subject': '',
-    contactmessage: ''
+    "contact-name": "",
+    "contact-email": "",
+    "contact-subject": "",
+    contactmessage: "",
   });
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [submitError, setSubmitError] = useState(null);
 
   const handleInputChange = (e) => {
     const { name, value } = e.target;
-    setFormData({
-      ...formData,
-      [name]: value
-    });
+    setFormData((prev) => ({
+      ...prev,
+      [name]: value,
+    }));
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    // The form will still submit to Formspree
-    // But we'll show the modal immediately for user feedback
-    setIsModalOpen(true);
-    
-    // Reset form fields after submission
-    setFormData({
-      'contact-name': '',
-      'contact-email': '',
-      'contact-subject': '',
-      contactmessage: ''
-    });
-  };
+    setIsSubmitting(true);
+    setSubmitError(null);
 
-  const closeModal = () => {
-    setIsModalOpen(false);
+    try {
+      const response = await fetch("https://formspree.io/f/xwplrvbp", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(formData),
+      });
+
+      if (response.ok) {
+        // Reset form on success
+        setFormData({
+          "contact-name": "",
+          "contact-email": "",
+          "contact-subject": "",
+          contactmessage: "",
+        });
+        // Open the modal
+        setIsModalOpen(true);
+      } else {
+        throw new Error("Form submission failed");
+      }
+    } catch (error) {
+      setSubmitError(error.message);
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   return (
@@ -94,15 +111,15 @@ const ContactSection = () => {
                         <li>
                           <Link href="https://www.linkedin.com/in/uokpagu/">linkedin</Link>
                         </li>
-                        
+
                       </ul>
                     </div>
                   </div>
                 </div>
                 <div className="col-12 col-lg-7">
                   <div className="contact__form-wrapper">
-                    <form 
-                      action="https://formspree.io/f/xwplrvbp" 
+                    <form
+                      action="https://formspree.io/f/xwplrvbp"
                       className="contact__form"
                       method="POST"
                       onSubmit={handleSubmit}
@@ -115,7 +132,7 @@ const ContactSection = () => {
                               id="contact-name"
                               name="contact-name"
                               placeholder="name"
-                              value={formData['contact-name']}
+                              value={formData["contact-name"]}
                               onChange={handleInputChange}
                               required
                             />
@@ -129,7 +146,7 @@ const ContactSection = () => {
                               id="contact-email"
                               name="contact-email"
                               placeholder="email"
-                              value={formData['contact-email']}
+                              value={formData["contact-email"]}
                               onChange={handleInputChange}
                               required
                             />
@@ -143,7 +160,7 @@ const ContactSection = () => {
                               id="contact-subject"
                               name="contact-subject"
                               placeholder="subject"
-                              value={formData['contact-subject']}
+                              value={formData["contact-subject"]}
                               onChange={handleInputChange}
                               required
                             />
@@ -166,10 +183,17 @@ const ContactSection = () => {
                           </div>
                         </div>
                         <div className="col-12">
-                          <button type="submit" className="common-btn">
-                            Send Message
+                          <button
+                            type="submit"
+                            className="common-btn"
+                            disabled={isSubmitting}
+                          >
+                            {isSubmitting ? "Sending..." : "Send Message"}
                             <i className="fa-solid fa-arrow-right"></i>
                           </button>
+                          {submitError && (
+                            <p className="text-danger mt-2">{submitError}</p>
+                          )}
                         </div>
                       </div>
                     </form>
@@ -182,7 +206,7 @@ const ContactSection = () => {
       </div>
 
       {/* Message Sent Modal */}
-      {isModalOpen && (
+      {/* {isModalOpen && (
         <div className="modal-overlay">
           <div className="modal-container">
             <div className="modal-content">
@@ -206,7 +230,7 @@ const ContactSection = () => {
             </div>
           </div>
         </div>
-      )}
+      )} */}
 
       {/* Add this CSS to your stylesheets */}
       <style jsx>{`

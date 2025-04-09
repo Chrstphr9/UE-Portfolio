@@ -67,6 +67,8 @@ const BlogSection = () => {
                   <Link
                      href={post?.url || "/blog-details"}
                     className="common-btn common-btn--color-reverse"
+                    target="_blank"  // This makes it open in new tab
+                    rel="noopener noreferrer"  // Security best practice
                   >
                     Read More
                     <i className="fa-solid fa-arrow-right"></i>

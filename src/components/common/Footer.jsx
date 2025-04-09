@@ -50,15 +50,15 @@ const Footer = ({ bottomOnly }) => {
               <div className="footer__nav">
                 <ul>
                   <li>
-                    <Link href="./assets/docs/Termify-Privacy-Policy" passHref legacyBehavior>
-                      <a className="text-white" target="_blank" rel="noopener noreferrer">
+                    <Link href="/terms" passHref legacyBehavior>
+                      <a className="text-white">
                         Terms & Condition
                       </a>
                     </Link>
                   </li>
                   <li>
-                    <Link href="./assets/docs/Termify-Terms-and-Conditions.pdf" passHref legacyBehavior>
-                      <a className="text-white" target="_blank" rel="noopener noreferrer">
+                    <Link href="/policy" passHref legacyBehavior>
+                      <a className="text-white" >
                         Privacy Policy
                       </a>
                     </Link>

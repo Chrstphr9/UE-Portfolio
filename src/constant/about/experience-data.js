@@ -28,7 +28,7 @@ const experienceData = {
         {
           year: "Oct 2013 - Oct 2015",
           title: "Head of Software Development",
-          company: "Cham Plc",
+          company: "Chams Plc",
         },
         {
           year: "Oct 2015 - Nov 2022",
@@ -53,7 +53,7 @@ const experienceData = {
       content: [
         {
           year: "2000 - 2005",
-          title: "University of NIgeria, Nsukka",
+          title: "University of Nigeria, Nsukka",
           company: "Enugu State, Nigeria",
         },
       ],
@@ -137,7 +137,7 @@ const experienceData = {
         {
           year: "2012",
           title: "ITIL v3",
-          company: "EINX",
+          company: "EXIN",
         },
       ],
     },
