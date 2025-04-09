@@ -65,7 +65,7 @@ const Header = () => {
                                   : ""
                               }
                             >
-                              <Link href={menu.link || "#0"}>
+                              <Link href={menu.link || "#0"} target="_blank">
                                 {menu?.name}
                                 {menu?.subMenu && menu?.subMenu.length > 0 && (
                                   <i className="fa-solid fa-angle-down"></i>

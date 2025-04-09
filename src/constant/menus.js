@@ -22,6 +22,12 @@ const menus = [
   },
   {
     id: 5,
+    name: "Videos",
+    link: "https://youtube.com/@ucheokpagu",
+    newTab: true
+  },
+  {
+    id: 6,
     name: "Contact Me",
     link: "/contact",
   },
