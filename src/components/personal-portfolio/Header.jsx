@@ -19,9 +19,8 @@ const Header = () => {
   return (
     <>
       <header
-        className={`header-area position-relative z-2 ${
-          isSticky ? "sticky" : ""
-        }`}
+        className={`header-area position-relative z-2 ${isSticky ? "sticky" : ""
+          }`}
         id="header"
       >
         <HeaderTopbar active={active} />
@@ -60,26 +59,26 @@ const Header = () => {
                               className={
                                 (menu?.subMenu?.length > 0 &&
                                   pathname === menu.link) ||
-                                menu.id === 0
+                                  menu.id === 0
                                   ? "active"
                                   : ""
                               }
                             >
-                             {menu.newTab ? (
-  <a href={menu.link} target="_blank" rel="noopener noreferrer">
-    {menu.name}
-    {menu?.subMenu && menu?.subMenu.length > 0 && (
-      <i className="fa-solid fa-angle-down"></i>
-    )}
-  </a>
-) : (
-  <Link href={menu.link || "#0"}>
-    {menu.name}
-    {menu?.subMenu && menu?.subMenu.length > 0 && (
-      <i className="fa-solid fa-angle-down"></i>
-    )}
-  </Link>
-)}
+                              {menu.newTab ? (
+                                <a href={menu.link} target="_blank" rel="noopener noreferrer">
+                                  {menu.name}
+                                  {menu?.subMenu && menu?.subMenu.length > 0 && (
+                                    <i className="fa-solid fa-angle-down"></i>
+                                  )}
+                                </a>
+                              ) : (
+                                <Link href={menu.link || "#0"}>
+                                  {menu.name}
+                                  {menu?.subMenu && menu?.subMenu.length > 0 && (
+                                    <i className="fa-solid fa-angle-down"></i>
+                                  )}
+                                </Link>
+                              )}
 
                               {menu?.subMenu && menu?.subMenu.length > 0 && (
                                 <ul>

@@ -17,9 +17,8 @@ const Header = ({ className }) => {
   return (
     <>
       <header
-        className={`header-area position-relative z-1 ${
-          isSticky ? "sticky" : ""
-        }`}
+        className={`header-area position-relative z-1 ${isSticky ? "sticky" : ""
+          }`}
         id="header"
       >
         <div className={`header__navbar header__navbar--extend ${className}`}>
@@ -44,29 +43,28 @@ const Header = ({ className }) => {
                               // className={pathname === menu.link ? "active" : ""}
                               className={
                                 pathname === menu.link ||
-                                menu?.subMenu?.some(
-                                  (sub) => sub.link === pathname
-                                )
+                                  menu?.subMenu?.some(
+                                    (sub) => sub.link === pathname
+                                  )
                                   ? "active"
                                   : ""
                               }
                             >
                               {menu.newTab ? (
-  <a href={menu.link} target="_blank" rel="noopener noreferrer">
-    {menu.name}
-    {menu?.subMenu && menu?.subMenu.length > 0 && (
-      <i className="fa-solid fa-angle-down"></i>
-    )}
-  </a>
-) : (
-  <Link href={menu.link || "#0"}>
-    {menu.name}
-    {menu?.subMenu && menu?.subMenu.length > 0 && (
-      <i className="fa-solid fa-angle-down"></i>
-    )}
-  </Link>
-)}
-
+                                <a href={menu.link} target="_blank" rel="noopener noreferrer">
+                                  {menu.name}
+                                  {menu?.subMenu && menu?.subMenu.length > 0 && (
+                                    <i className="fa-solid fa-angle-down"></i>
+                                  )}
+                                </a>
+                              ) : (
+                                <Link href={menu.link || "#0"}>
+                                  {menu.name}
+                                  {menu?.subMenu && menu?.subMenu.length > 0 && (
+                                    <i className="fa-solid fa-angle-down"></i>
+                                  )}
+                                </Link>
+                              )}
                               {menu?.subMenu && menu?.subMenu.length > 0 && (
                                 <ul>
                                   {menu.subMenu.map((subMenuItem) => (

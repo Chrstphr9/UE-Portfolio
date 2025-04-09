@@ -23,13 +23,13 @@ import AnimationProvider from "@/components/providers/AnimationProvider";
 import BackTopTop from "@/components/BackToTop";
 
 export const metadata = {
-  title: "Uchenna Emmanuel | Personal Portfolio",
+  title: "Uchenna Okpagu | Personal Portfolio",
   description: "Personal Portfolio/CV ",
   keywords:
     "Personal Portfolio, CV, Resume, HTML5 Template, NextJS Template, Freelancer, Web Developer, Designer, Digital Portfolio, Nicholls, Sakebul islam",
-  creator: "Uchenna Emmanuel",
+  creator: "Uchenna Okpagu",
   other: {
-    developer: "Uchenna Emmanuel",
+    developer: "Uchenna Okpagu",
   },
 };
 
