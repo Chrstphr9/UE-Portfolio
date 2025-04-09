@@ -84,7 +84,7 @@ const Offcanvas = ({ menus, handleClose, show, className = "", theme }) => {
           <div className="offcanvas-info">
             <div className="about-info">
               <p className="text-white">
-              I’m Uchennanna Okpagu, a seasoned AI Engineer, Technology Leader, and Cloud Architect with over 20 years of experience in software development, AI transformation, and enterprise technology solutions.
+              I’m Uchenna Okpagu, a seasoned AI Engineer, Technology Leader, and Cloud Architect with over 20 years of experience in software development, AI transformation, and enterprise technology solutions.
               </p>
             </div>
             <div className="btn-wrapper">

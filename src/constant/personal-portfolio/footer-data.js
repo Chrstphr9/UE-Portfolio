@@ -7,7 +7,7 @@ const footerData = {
 
   centerSection: {
     avatar: {
-      src: "./assets/images/Uchenna_face.svg",
+      src: "./assets/images/Uche_face.svg",
       alt: "footer-mask-avatar",
     },
     socialLinks: [
@@ -23,7 +23,7 @@ const footerData = {
       },
       {
         name: "twitter",
-        url: "https://x.com/Uchennaokpagu",
+        url: "https://x.com/Uchenna Okpagu",
         id: "twitter",
       },
     ],

@@ -1,5 +1,5 @@
 const heroData = {
-  imgSrc: "./assets/images/Uchenna_face.svg",
+  imgSrc: "./assets/images/uche_face.svg",
   altText: "hero-about-avatar",
   // titleText: ["product designer", "product designer"],
 };

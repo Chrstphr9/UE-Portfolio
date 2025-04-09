@@ -4,7 +4,7 @@ export default function Terms() {
   return (
     <>
       <Head>
-        <title>Privacy Policy | Uchennanna Okpagu</title>
+        <title>Privacy Policy | Uchenna Okpagu</title>
         <link
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
           rel="stylesheet"
@@ -22,14 +22,14 @@ export default function Terms() {
                 Updated at April 7th, 2025
               </p>
               <p className="mb-3">
-                Uchennanna Okpagu (“we,” “our,” or “us”) is committed to protecting
+                Uchenna Okpagu (“we,” “our,” or “us”) is committed to protecting
                 your privacy. This Privacy Policy explains how your personal
-                information is collected, used, and disclosed by Uchennanna Okpagu.
+                information is collected, used, and disclosed by Uchenna Okpagu.
               </p>
               <p className="mb-3">
                 This Privacy Policy applies to our website, and its associated
                 subdomains (collectively, our “Service”) alongside our
-                application, Uchennanna Okpagu. By accessing or using our Service,
+                application, Uchenna Okpagu. By accessing or using our Service,
                 you signify that you have read, understood, and agree to our
                 collection, storage, use, and disclosure of your personal
                 information as described in this Privacy Policy and our Terms of
@@ -51,24 +51,24 @@ export default function Terms() {
                 </p>
                 <p>
                   <strong>Company</strong>: when this policy mentions
-                  "Company","we", "us","or","our", it refers to Uchennanna Okpagu,
+                  "Company","we", "us","or","our", it refers to Uchenna Okpagu,
                   that is responsible for your information under this Privacy
                   Policy.
                 </p>
                 <p>
-                  <strong>Country</strong>: where Uchennanna Okpagu or the
-                  owners/founders of Uchennanna Okpagu are based, in this case is
+                  <strong>Country</strong>: where Uchenna Okpagu or the
+                  owners/founders of Uchenna Okpagu are based, in this case is
                   Nigeria
                 </p>
                 <p>
                   <strong>Customer</strong>: refers to the company, organization
-                  or person that signs up to use the Uchennanna Okpagu Service to
+                  or person that signs up to use the Uchenna Okpagu Service to
                   manage the relationships with your consumers or service users.
                 </p>
                 <p>
                   <strong>Device</strong>: any internet connected device such as
                   a phone, tablet, computer or any other device that can be used
-                  to visit Uchennanna Okpagu and use the services.
+                  to visit Uchenna Okpagu and use the services.
                 </p>
                 <p>
                   <strong>IP address</strong>: Every device connected to the
@@ -79,7 +79,7 @@ export default function Terms() {
                 </p>
                 <p>
                   <strong>Personnel</strong>: refers to those individuals who
-                  are employed by Uchennanna Okpagu or are under contract to
+                  are employed by Uchenna Okpagu or are under contract to
                   perform a service on behalf of one of the parties.
                 </p>
                 <p>
@@ -90,7 +90,7 @@ export default function Terms() {
                 </p>
                 <p>
                   <strong>Service</strong>: refers to the service provided by
-                  Uchennanna Okpagu as described in the relative terms (if
+                  Uchenna Okpagu as described in the relative terms (if
                   available) and on this platform.
                 </p>
                 <p>
@@ -100,12 +100,12 @@ export default function Terms() {
                   we think may interest you.
                 </p>
                 <p>
-                  <strong>Website</strong>: Uchennanna Okpagu's site, which can be
-                  accessed via this URL: www.Uchennaokpagu.com
+                  <strong>Website</strong>: Uchenna Okpagu's site, which can be
+                  accessed via this URL: www.Uchenna Okpagu.com
                 </p>
                 <p>
                   <strong>You</strong>: a person or entity that is registered
-                  with Uchennanna Okpagu to use the Services.
+                  with Uchenna Okpagu to use the Services.
                 </p>
               </section>
 
@@ -153,12 +153,12 @@ export default function Terms() {
 
               <section className="mt-5">
                 <h3 className="h5">
-                  When does Uchennanna Okpagu use end user information from third
+                  When does Uchenna Okpagu use end user information from third
                   parties?
                 </h3>
                 <p>
-                  Uchennanna Okpagu will collect End User Data necessary to provide
-                  the Uchennanna Okpagu services to our customers.
+                  Uchenna Okpagu will collect End User Data necessary to provide
+                  the Uchenna Okpagu services to our customers.
                 </p>
                 <p>
                   End users may voluntarily provide us with information they
@@ -173,15 +173,15 @@ export default function Terms() {
 
               <section className="mt-5">
                 <h3 className="h5">
-                  When does Uchennanna Okpagu use customer information from third
+                  When does Uchenna Okpagu use customer information from third
                   parties?
                 </h3>
                 <p>
                   We receive some information from the third parties when you
                   contact us. For example, when you submit your email address to
-                  us to show interest in becoming a Uchennanna Okpagu customer, we
+                  us to show interest in becoming a Uchenna Okpagu customer, we
                   receive information from a third party that provides automated
-                  fraud detection services to Uchennanna Okpagu. We also
+                  fraud detection services to Uchenna Okpagu. We also
                   occasionally collect information that is made publicly
                   available on social media websites. You can control how much
                   of your information social media websites make public by
@@ -245,7 +245,7 @@ export default function Terms() {
                   users?
                 </h3>
                 <p>
-                  Uchennanna Okpagu will collect personal information that you
+                  Uchenna Okpagu will collect personal information that you
                   submit to us. We may also receive personal information about
                   you from third parties as described above.
                 </p>
@@ -281,7 +281,7 @@ export default function Terms() {
                 <h3 className="h5">How Long Do We Keep Your Information?</h3>
                 <p>
                   We keep your information only so long as we need it to provide
-                  Uchennanna Okpagu to you and fulfill the purposes described in
+                  Uchenna Okpagu to you and fulfill the purposes described in
                   this policy. This is also the case for anyone that we share
                   your information with and who carries out services on our
                   behalf. When we no longer need to use your information and
@@ -306,7 +306,7 @@ export default function Terms() {
                   your private information (credit cards, social security
                   numbers, financials, etc.) is never kept on file. We cannot,
                   however, ensure or warrant the absolute security of any
-                  information you transmit to Uchennanna Okpagu or guarantee that
+                  information you transmit to Uchenna Okpagu or guarantee that
                   your information on the Service may not be accessed,
                   disclosed, altered, or destroyed by a breach of any of our
                   physical, technical, or managerial safeguards.
@@ -318,7 +318,7 @@ export default function Terms() {
                   Could my information be transferred to other countries?
                 </h3>
                 <p>
-                  Uchennanna Okpagu is incorporated in Nigeria. Information
+                  Uchenna Okpagu is incorporated in Nigeria. Information
                   collected via our website, through direct interactions with
                   you, or from use of our help services may be transferred from
                   time to time to our offices or personnel, or to third parties,
@@ -333,7 +333,7 @@ export default function Terms() {
 
               <section className="mt-5">
                 <h3 className="h5">
-                  Is the information collected through the Uchennanna Okpagu
+                  Is the information collected through the Uchenna Okpagu
                   Service secure?
                 </h3>
                 <p>
@@ -357,8 +357,8 @@ export default function Terms() {
                 <h3 className="h5">Can I update or correct my information?</h3>
                 <p className="mb-3">
                   The rights you have to request updates or corrections to the
-                  information Uchennanna Okpagu collects depend on your
-                  relationship with Uchennanna Okpagu. Personnel may update or
+                  information Uchenna Okpagu collects depend on your
+                  relationship with Uchenna Okpagu. Personnel may update or
                   correct their information as detailed in our internal company
                   employment policies.
                 </p>
@@ -407,9 +407,9 @@ export default function Terms() {
                 <p>
                   We reserve the right to transfer information to a third party
                   in the event of a sale, merger or other transfer of all or
-                  substantially all of the assets of Uchennanna Okpagu or any of
+                  substantially all of the assets of Uchenna Okpagu or any of
                   its Corporate Affiliates (as defined herein), or that portion
-                  of Uchennanna Okpagu or any of its Corporate Affiliates to which
+                  of Uchenna Okpagu or any of its Corporate Affiliates to which
                   the Service relates, or in the event that we discontinue our
                   business or file a petition or have filed against us a
                   petition in bankruptcy, reorganization or similar proceeding,
@@ -425,7 +425,7 @@ export default function Terms() {
                   about you to our Corporate Affiliates. For purposes of this
                   Privacy Policy, " Corporate Affiliate" means any person or
                   entity which directly or indirectly controls, is controlled by
-                  or is under common control with Uchennanna Okpagu, whether by
+                  or is under common control with Uchenna Okpagu, whether by
                   ownership or otherwise. Any information relating to you that
                   we provide to our Corporate Affiliates will be treated by
                   those Corporate Affiliates in accordance with the terms of
@@ -451,7 +451,7 @@ export default function Terms() {
                   national, or international laws.
                 </p>
                 <p>
-                  By using Uchennanna Okpagu or contacting us directly, you signify
+                  By using Uchenna Okpagu or contacting us directly, you signify
                   your acceptance of this Privacy Policy. If you do not agree to
                   this Privacy Policy, you should not engage with our website,
                   or use our services. Continued use of the website, direct
@@ -478,7 +478,7 @@ export default function Terms() {
                 <p>
                   This Privacy Policy applies only to the Services. The Services
                   may contain links to other websites not operated or controlled
-                  by Uchennanna Okpagu. We are not responsible for the content,
+                  by Uchenna Okpagu. We are not responsible for the content,
                   accuracy or opinions expressed in such websites, and such
                   websites are not investigated, monitored or checked for
                   accuracy or completeness by us. Please remember that when you
@@ -495,7 +495,7 @@ export default function Terms() {
                 <h3 className="h5">Advertising</h3>
                 <p className="mb-3">
                   This website may contain third party advertisements and links
-                  to third party sites. Uchennanna Okpagu does not make any
+                  to third party sites. Uchenna Okpagu does not make any
                   representation as to the accuracy or suitability of any of the
                   information contained in those advertisements or sites and
                   does not accept any responsibility or liability for the
@@ -503,15 +503,15 @@ export default function Terms() {
                   offerings made by the third parties.
                 </p>
                 <p className="mb-3">
-                  Advertising keeps Uchennanna Okpagu and many of the websites and
+                  Advertising keeps Uchenna Okpagu and many of the websites and
                   services you use free of charge. We work hard to make sure
                   that ads are safe, unobtrusive, and as relevant as possible.
                 </p>
                 <p>
                   Third party advertisements and links to other sites where
                   goods or services are advertised are not endorsements or
-                  recommendations by Uchennanna Okpagu of the third party sites,
-                  goods or services. Uchennanna Okpagu takes no responsibility for
+                  recommendations by Uchenna Okpagu of the third party sites,
+                  goods or services. Uchenna Okpagu takes no responsibility for
                   the content of any of the ads, promises made, or the
                   quality/reliability of the products or services offered in all
                   advertisements.
@@ -536,7 +536,7 @@ export default function Terms() {
               <section className="mt-5">
                 <h3 className="h5">Cookies</h3>
                 <p>
-                  Uchennanna Okpagu uses "Cookies" to identify the areas of our
+                  Uchenna Okpagu uses "Cookies" to identify the areas of our
                   website that you have visited. A Cookie is a small piece of
                   data stored on your computer or mobile device by your web
                   browser. We use Cookies to enhance the performance and
@@ -609,11 +609,11 @@ export default function Terms() {
                   ("Third- Party Services").
                 </p>
                 <p className="mb-3">
-                  You acknowledge and agree that Uchennanna Okpagu shall not be
+                  You acknowledge and agree that Uchenna Okpagu shall not be
                   responsible for any Third-Party Services, including their
                   accuracy, completeness, timeliness, validity, copyright
                   compliance, legality, decency, quality or any other aspect
-                  thereof. Uchennanna Okpagu does not assume and shall not have any
+                  thereof. Uchenna Okpagu does not assume and shall not have any
                   liability or responsibility to you or any other person or
                   entity for any Third-Party Services.
                 </p>
@@ -701,7 +701,7 @@ export default function Terms() {
                   process. It also raises the stakes for compliance by
                   increasing enforcement and imposing greater fines for breach.
                   Beyond these facts it's simply the right thing to do. At
-                  Uchennanna Okpagu we strongly believe that your data privacy is
+                  Uchenna Okpagu we strongly believe that your data privacy is
                   very important and we already have solid security and privacy
                   practices in place that go beyond the requirements of this new
                   regulation.
@@ -715,7 +715,7 @@ export default function Terms() {
                 </h3>
                 <p className="mb-3">
                   We are committed to helping our customers meet the data
-                  subject rights requirements of GDPR. Uchennanna Okpagu processes
+                  subject rights requirements of GDPR. Uchenna Okpagu processes
                   or stores all personal data in fully vetted, DPA compliant
                   vendors. We do store all conversation and personal data for up
                   to 6 years unless your account is deleted. In which case, we

@@ -35,7 +35,7 @@ const Footer = ({ bottomOnly }) => {
           <div className="row gx-4 gy-2">
             <div className="col-lg-4 order-3 order-lg-1">
               <p className="footer__copyright text-white">
-                © 2025. All rights reserved Uche Okpagu
+                © 2025. All rights reserved Uchenna Okpagu
               </p>
             </div>
             <div className="col-lg-4 order-1 order-lg-2">
