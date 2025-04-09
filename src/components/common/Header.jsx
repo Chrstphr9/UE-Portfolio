@@ -40,7 +40,6 @@ const Header = ({ className }) => {
                           {menus.map((menu) => (
                             <li
                               key={menu?.id}
-                              // className={pathname === menu.link ? "active" : ""}
                               className={
                                 pathname === menu.link ||
                                   menu?.subMenu?.some(

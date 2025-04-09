@@ -16,18 +16,18 @@ const menus = [
   },
   
   {
-    id: 4,
+    id: 3,
     name: "Blog",
     link: "/blog"
   },
   {
-    id: 5,
+    id: 4,
     name: "Videos",
     link: "https://youtube.com/@Uchenna Okpagu",
     newTab: true
   },
   {
-    id: 6,
+    id: 5,
     name: "Contact Me",
     link: "/contact",
   },
