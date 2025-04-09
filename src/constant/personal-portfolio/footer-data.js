@@ -7,7 +7,7 @@ const footerData = {
 
   centerSection: {
     avatar: {
-      src: "./assets/images/Uche_face.svg",
+      src: "./assets/images/uche_face.svg",
       alt: "footer-mask-avatar",
     },
     socialLinks: [

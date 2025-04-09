@@ -12,23 +12,6 @@ const HeroMain = ({  heroContent }) => {
         <div className="row">
           <div className="col-12">
             <div className="hero__main-content">
-              {/* {skillsData.map((skill, index) => (
-                <div
-                  key={skill?.id}
-                  className={`dot-content-wrapper dot-content-wrapper-${
-                    index + 1
-                  } ${skill?.id === currentSkill ? "current" : ""}`}
-                  onMouseEnter={() => setCurrentSkill(skill?.id)}
-                >
-                  <span className="dot"></span>
-                  <div className="dot-content">
-                    <img src={skill?.icon} alt={skill?.name} />
-                    <span>{skill?.name}</span>
-                    <span>{skill?.percentage}</span>
-                  </div>
-                </div>
-              ))} */}
-
               <div className="hero-thumb reveal zoom-out">
                 <img src={heroContent?.maskImage} alt="hero-mask-avatar" />
               </div>

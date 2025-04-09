@@ -22,7 +22,7 @@ export const heroContent = {
     { lastName: "OKPAGU", classes: "text-end text-right" },
     { lastName: "OKPAGU", classes: "text-end text-right" },
   ],
-  maskImage: "./assets/images/Uche_face.svg",
+  maskImage: "./assets/images/uche_face.svg",
   description:
     "I’m a Certified AI Scientist and Technology Leader",
   ctaText: "Let's Connect",
