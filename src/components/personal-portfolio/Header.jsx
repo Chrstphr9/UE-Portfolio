@@ -115,7 +115,7 @@ const Header = () => {
                       </div>
                       <div className="text-end d-xl-none">
                         <Link className="header__main-logo" href="/">
-                          <img src="./assets/images/Uche_logo_white.svg" alt="logo" />
+                          <img src="./assets/images/uche_logo_white.svg" alt="logo" />
                         </Link>
                       </div>
                       <button className="header__hamburger d-none">
