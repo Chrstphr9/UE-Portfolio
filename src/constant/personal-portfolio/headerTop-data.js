@@ -14,10 +14,10 @@ const headerToppData = {
   socialLinks: [
     { platform: "twitter", url: "https://x.com/Uchenna Okpagu", icon: "fa-x-twitter" },
     { platform: "instagram", url: "https://instagram.com/uchokpagu", icon: "fa-instagram" },
-    { platform: "instagram", url: "https://instagram.com/uchokpagu", icon: "fa-instagram" },
+    { platform: "Linkedin", url: "https://www.linkedin.com/in/uokpagu/", icon: "fa-linkedin" },
    
   ],
-  logo: "./assets/images/Uchelogo_white.svg",
+  logo: "./assets/images/uche_logo_white.svg",
   homeLink: "/",
 };
 
