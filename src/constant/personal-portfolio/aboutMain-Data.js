@@ -1,7 +1,6 @@
 const aboutMainData = {
   headerInfo: {
     greeting: "About Me",
-    // title: "I'am Uchenna — an AI Engineer specializing in Cloud Computing",
   },
   decorativeImage: {
     src: "./assets/images/about-area/ring-shap.png",
