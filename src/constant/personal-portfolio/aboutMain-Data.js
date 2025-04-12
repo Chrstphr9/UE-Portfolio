@@ -3,7 +3,7 @@ const aboutMainData = {
     greeting: "About Me",
   },
   decorativeImage: {
-    src: "./assets/images/about-area/ring-shap.png",
+    src: "./assets/images/caislogo.svg",
     alt: "ring-shap",
   },
   content: {

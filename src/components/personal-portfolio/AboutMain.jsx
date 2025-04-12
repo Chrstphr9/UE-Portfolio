@@ -20,8 +20,9 @@ const AboutMain = () => {
             </div>
           </div>
         </div>
-        <div className="row g-4 justify-content-end section-mini-padding-top">
-          <div className="col-xl-12">
+        <div className="row g-4 align-items-center section-mini-padding-top">
+          {/* Left side - Text content */}
+          <div className="col-xl-6">
             <div className="about__content">
               {aboutData?.content?.paragraphs.map((paragraph, index) => (
                 <p key={index} className="item-popup">
@@ -34,7 +35,19 @@ const AboutMain = () => {
               </Link>
             </div>
           </div>
+
+          {/* Right side - Image */}
+          <div className="col-xl-6 d-none d-xl-block">
+            <div className="about__sha p-4 overflow-hidden text-center">
+              <img
+                src={aboutData?.decorativeImage?.src}
+                alt={aboutData?.decorativeImage?.alt}
+                // className="img-fluid"
+              />
+            </div>
+          </div>
         </div>
+
       </div>
     </section>
   );
